@@ -6,9 +6,9 @@ abstract class Shape
     double area;
     abstract void draw();
     abstract double getArea();
-
+    
 }
-
+//-------------------------------------------------------------------------------------------------------------------
 class Circle extends Shape
 {
 
@@ -57,6 +57,8 @@ class Rectangle extends Shape
         return width*height;
     }
 }
+
+//-------------------------------------------------------------------------------------------------------------------------
 
 public class ShapeMain
 {
