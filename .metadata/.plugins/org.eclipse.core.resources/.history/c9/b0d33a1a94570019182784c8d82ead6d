@@ -1,0 +1,28 @@
+package car;
+import java.util.*;
+
+class MyCar
+{
+	int door;
+	String color;
+	int engine;
+}
+
+
+
+public class Car {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		MyCar newCar = new MyCar();
+		newCar.door = 2;
+		newCar.color = new String("Blue");
+		newCar.engine = 6;
+		
+		System.out.println("My new car has "+newCar.door+" doors and it's "+newCar.color+"\nIt also has "+newCar.engine+" engines!!");
+		
+		
+	}
+
+}

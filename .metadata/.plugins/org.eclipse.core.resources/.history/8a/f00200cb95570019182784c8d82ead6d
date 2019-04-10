@@ -1,0 +1,12 @@
+package carTest;
+
+class BBang	//빵종류와 가격에 대한 클래스 생성
+{
+	
+	
+	String jong;
+	//빵종류 속성
+	Integer ka;
+	//빵 가격 속성 
+	
+}

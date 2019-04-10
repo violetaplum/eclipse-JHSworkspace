@@ -1,0 +1,14 @@
+package arrayEx;
+
+public class ArrayTwoDimention {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int [][] aa = new int[2][3];
+		aa[0][0] = 100;
+		aa[1][2] = 200;
+		//지하아파트 라고 생각해야함.
+
+	}
+
+}

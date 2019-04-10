@@ -1,0 +1,25 @@
+package arrayEx;
+
+public class ArrayTwoDimention {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int [][] aa = new int[2][3];
+		aa[0][0] = 100;
+		aa[1][2] = 200;
+		//지하아파트 라고 생각해야함.
+
+		int[][] bb = {{10,20,30},
+						{40,50,60}};
+		
+		for(int j=0;j<2;j++)
+		{
+			for(int i=0;i<3;i++)
+			{
+				System.out.println(bb[j][i]+"\t");
+			}
+		}
+		
+	}
+
+}
