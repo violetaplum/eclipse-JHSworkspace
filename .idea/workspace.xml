@@ -32,16 +32,40 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/HelloProject/src/shapeTest/ShapeMain.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="208">
-              <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
               <folding>
                 <element signature="e#901#902#0" expanded="true" />
                 <element signature="e#945#946#0" expanded="true" />
                 <element signature="e#1251#1252#0" expanded="true" />
                 <element signature="e#1286#1287#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HelloProject/src/bmi/BMI.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="612">
+              <caret line="39" column="5" selection-start-line="4" selection-start-column="4" selection-end-line="39" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/HelloProject/src/GUItest/GuiMain.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="260">
+              <caret line="77" column="27" lean-forward="true" selection-start-line="77" selection-start-column="27" selection-end-line="77" selection-end-column="27" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1926#1927#0" expanded="true" />
+                <element signature="e#2440#2441#0" expanded="true" />
+                <element signature="e#2506#2507#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -92,6 +116,7 @@
         <option value="$PROJECT_DIR$/HelloProject/src/rectangleMain/RectangleMain.java" />
         <option value="$APPLICATION_CONFIG_DIR$/consoles/jshell/jshell_console.snippet" />
         <option value="$PROJECT_DIR$/HelloProject/src/shapeTest/ShapeMain.java" />
+        <option value="$PROJECT_DIR$/HelloProject/src/GUItest/GuiMain.java" />
       </list>
     </option>
   </component>
@@ -119,6 +144,12 @@
               <item name="eclipse-JHSworkspace" type="b2602c69:ProjectViewProjectNode" />
               <item name="HelloProject" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eclipse-JHSworkspace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HelloProject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="bmi" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="eclipse-JHSworkspace" type="b2602c69:ProjectViewProjectNode" />
@@ -175,13 +206,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ShapeMain">
+  <component name="RunManager" selected="Application.GuiMain">
     <configuration name="AlbamanMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="albaman.AlbamanMain" />
       <module name="HelloProject" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="albaman.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GuiMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GUItest.GuiMain" />
+      <module name="HelloProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="GUItest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -215,19 +259,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SawonMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sawon.SawonMain" />
-      <module name="HelloProject" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="sawon.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="ShapeMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="shapeTest.ShapeMain" />
       <module name="HelloProject" />
@@ -243,18 +274,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.RectangleMain" />
-      <item itemvalue="Application.SawonMain" />
       <item itemvalue="Application.AlbamanMain" />
       <item itemvalue="Application.KwailMain" />
       <item itemvalue="Application.ShapeMain" />
+      <item itemvalue="Application.GuiMain" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GuiMain" />
         <item itemvalue="Application.ShapeMain" />
         <item itemvalue="Application.RectangleMain" />
         <item itemvalue="Application.KwailMain" />
         <item itemvalue="Application.AlbamanMain" />
-        <item itemvalue="Application.SawonMain" />
       </list>
     </recent_temporary>
   </component>
@@ -275,7 +306,7 @@
     <frame x="669" y="0" width="1258" height="1057" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.18781303" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18781303" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -285,7 +316,7 @@
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.4013378" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.25641027" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -535,12 +566,32 @@
     <entry file="file://$PROJECT_DIR$/HelloProject/src/shapeTest/ShapeMain.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="208">
-          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
           <folding>
             <element signature="e#901#902#0" expanded="true" />
             <element signature="e#945#946#0" expanded="true" />
             <element signature="e#1251#1252#0" expanded="true" />
             <element signature="e#1286#1287#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HelloProject/src/bmi/BMI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="39" column="5" selection-start-line="4" selection-start-column="4" selection-end-line="39" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HelloProject/src/GUItest/GuiMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="77" column="27" lean-forward="true" selection-start-line="77" selection-start-column="27" selection-end-line="77" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1926#1927#0" expanded="true" />
+            <element signature="e#2440#2441#0" expanded="true" />
+            <element signature="e#2506#2507#0" expanded="true" />
           </folding>
         </state>
       </provider>

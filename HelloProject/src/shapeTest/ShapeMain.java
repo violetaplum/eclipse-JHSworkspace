@@ -6,7 +6,7 @@ abstract class Shape
     double area;
     abstract void draw();
     abstract double getArea();
-    
+
 }
 //-------------------------------------------------------------------------------------------------------------------
 class Circle extends Shape
