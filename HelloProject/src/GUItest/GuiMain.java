@@ -1,7 +1,7 @@
 package GUItest;
 import java.awt.*;
 import java.awt.event.*;
-import java.util.*;
+
 
 //AWT : 그래픽 처리시 윈도우 방식 차용
 //SWING : 자바만의 방식 사용
@@ -37,6 +37,7 @@ class BMIGUI2 extends Frame implements ActionListener
         this.setLayout(null); //레이아웃(가로배치,세로배치,null). null : 자유롭게 배치
         b1.setSize(100,70); //Button size
         b1.setLocation(200,300);    //Button Location (좌측 상단 꼭짓점의 위치가 기본)
+        b1.setBackground(Color.MAGENTA);
         this.add(b1);   //add the Button on Frame
         b1.addActionListener(this);  //Button as Event
 
