@@ -24,6 +24,7 @@ class Circle extends Shape
     public void draw()
     {
         System.out.println("Draw the Circle!!");
+        System.out.println("The Circles Area is : "+Math.round(this.getArea())+" and it's on point ("+this.x+","+this.y+")");
     }
     @Override
     public double getArea()
@@ -48,6 +49,7 @@ class Rectangle extends Shape
     public void draw()
     {
         System.out.println("Draw the Rectangle!!");
+        System.out.println("The Rectangles Area is : "+Math.round(this.getArea())+" and it's on point ("+this.x+","+this.y+")");
 
     }
     public double getArea()
@@ -65,10 +67,9 @@ public class ShapeMain
         Shape rec = new Rectangle(3,4,4,5);
 
         circle.draw();
-        System.out.println("The Circles Area is : "+Math.round(circle.getArea())+" and it's on point ("+circle.x+","+circle.y+")");
-
         rec.draw();
-        System.out.println("The Rectangles Area is : "+Math.round(rec.getArea())+" and it's on point ("+rec.x+","+rec.y+")");
+
         //Math.round()를 사용하여 정수로 반올림 해주면 깔끔!
+        //github testing
     }
 }
