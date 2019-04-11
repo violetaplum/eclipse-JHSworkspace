@@ -1,0 +1,34 @@
+package stringBuffer;
+import java.lang.*;
+import java.util.*;
+
+class SentenceBuilder
+{
+  public StringBuilder build()
+  {
+    StringBuilder sb = new StringBuilder();
+    String[] subjects = {"I","You","We","A friend of mine"};
+    String[] verbs = {"play","love","eat"};
+    String[] objects = {"a football","to cook"};
+    int rand1 = (int)(Math.random()*subjects.length);
+    int rand2 = (int)(Math.random()*verbs.length);
+    int rand3 = (int)(Math.random()*objects.length);
+
+    sb.append(subjects[rand1]);
+    sb.append(" ");
+    sb.append(verbs[rand2]);
+    sb.append(" ");
+    sb.append(objects[rand3]);
+    return sb;
+  }
+}
+
+
+public class StringBufferMain extends SentenceBuilder
+{
+  public static void main(String[] args)
+  {
+      SentenceBuilder sb = new SentenceBuilder();
+      System.out.println(sb.build());
+  }
+}
