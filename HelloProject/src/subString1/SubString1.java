@@ -23,6 +23,8 @@ public class SubString1 {
     public static void main(String[] args)
     {
         String s1 = "          I LOVE YOU";//복잡하게 보이지 않게 공간을 줌
-        kajaDisplay(s1);
+        kajaDisplay(s1);        //subString('love',2); --> love라는 글자에서 두글자까지 가져오라는 의미.
+                                //subStirng('love',1,2); --> 두번째 인자는 0부터세고 세번째 인자는 1부터센다
+                                //따라서 'o'밖에 나오지 않는다.
     }
 }
