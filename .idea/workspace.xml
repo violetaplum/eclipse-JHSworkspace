@@ -1,24 +1,83 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="da44a62b-f459-4d9d-9a63-1b1920889d20" name="Default Changelist" comment="" />
+    <list default="true" id="a26545e5-abc8-47f3-ab00-46e398294659" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/HelloProject/bin/" />
     <ignored path="$PROJECT_DIR$/Love/bin/" />
+    <ignored path="$PROJECT_DIR$/PackageimportProject/bin/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="CoverageViewManager">
-    <option name="myElementSize" value="46" />
-  </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HelloProject/src/collectionTest/CollectionMain.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="364">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HelloProject/src/collectionTest/CollectionTest2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="208">
+              <caret line="8" column="37" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HelloProject/src/enumerationTest/EnumerationMain.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="443">
+              <caret line="24" column="55" selection-start-line="24" selection-start-column="55" selection-end-line="24" selection-end-column="55" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HelloProject/src/hasMapTest/HasMapMain.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="309">
+              <caret line="34" column="40" selection-start-line="34" selection-start-column="40" selection-end-line="34" selection-end-column="40" />
+              <folding>
+                <element signature="e#419#435#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HelloProject/src/genericTest/ArrayListMain.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="292">
+              <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/HelloProject/src/genericTest/MarketMain.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="156">
+              <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -27,90 +86,51 @@
       </list>
     </option>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>pen</find>
-    </findStrings>
-  </component>
-  <component name="Git.Settings">
-    <option name="ROOT_SYNC" value="DONT_SYNC" />
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/HelloProject/src/constructorTest/Constructing.java" />
-        <option value="$PROJECT_DIR$/HelloProject/src/Coffee/Coffee.java" />
-        <option value="$PROJECT_DIR$/HelloProject/src/inheritanceTest/World.java" />
-        <option value="$PROJECT_DIR$/HelloProject/src/inheritanceTest/InheritanceTest.java" />
-        <option value="$PROJECT_DIR$/HelloProject/src/InheritanceTest2/ParentTest.java" />
-        <option value="$PROJECT_DIR$/HelloProject/src/objectTest/Bakery.java" />
         <option value="$PROJECT_DIR$/HelloProject/src/turtleTest/Square.java" />
-        <option value="$PROJECT_DIR$/HelloProject/src/InheritanceTest2/CastTest.java" />
-        <option value="$PROJECT_DIR$/HelloProject/src/carGame/CarGame.java" />
-        <option value="$PROJECT_DIR$/HelloProject/src/bankTest/BankAccount.java" />
-        <option value="$PROJECT_DIR$/HelloProject/src/bankTest/Bank.java" />
-        <option value="$PROJECT_DIR$/HelloProject/src/childParent/Child7.java" />
-        <option value="$PROJECT_DIR$/HelloProject/src/childParent/CarBaseSuper.java" />
-        <option value="$PROJECT_DIR$/HelloProject/src/bakeryCopy1/Bakery.java" />
-        <option value="$PROJECT_DIR$/HelloProject/src/duhe/Duhe.java" />
-        <option value="$PROJECT_DIR$/HelloProject/src/dogV1SorterMainV1/DogV1SorterMainV1.java" />
-        <option value="$PROJECT_DIR$/HelloProject/src/interfaceClass/InterfaceClass.java" />
-        <option value="$PROJECT_DIR$/HelloProject/src/sawon/Sawon.java" />
-        <option value="$PROJECT_DIR$/HelloProject/src/sawon/SawonMain.java" />
-        <option value="$PROJECT_DIR$/HelloProject/src/albaman/AlbamanMain.java" />
-        <option value="$PROJECT_DIR$/HelloProject/src/abstractTest/KwailMain.java" />
-        <option value="$PROJECT_DIR$/HelloProject/src/rectangleMain/RectangleMain.java" />
-        <option value="$APPLICATION_CONFIG_DIR$/consoles/jshell/jshell_console.snippet" />
-        <option value="$PROJECT_DIR$/HelloProject/src/shapeTest/ShapeMain.java" />
-        <option value="$PROJECT_DIR$/HelloProject/src/GUItest/GuiMain.java" />
-        <option value="$PROJECT_DIR$/HelloProject/src/tryCatch/TryCatchMain.java" />
-        <option value="$PROJECT_DIR$/HelloProject/src/tryCatch/TryCatchMain2.java" />
-        <option value="$PROJECT_DIR$/HelloProject/src/throwTest2/ThrowTestMain2.java" />
-        <option value="$PROJECT_DIR$/HelloProject/src/throwTest/ThrowTestMain.java" />
-        <option value="$PROJECT_DIR$/HelloProject/src/ondalTest/OndalTestMain.java" />
-        <option value="$PROJECT_DIR$/HelloProject/src/ondalTest/OndalTestMain2.java" />
-        <option value="$PROJECT_DIR$/HelloProject/src/indexOfTest/IndexOfMain.java" />
-        <option value="$PROJECT_DIR$/HelloProject/src/indexOfTest/FindMain.java" />
-        <option value="$PROJECT_DIR$/HelloProject/src/charAtTest/CharAtMain.java" />
-        <option value="$PROJECT_DIR$/HelloProject/src/indexOfTest/FindMain2.java" />
-        <option value="$PROJECT_DIR$/HelloProject/src/splitTest/SplitMain.java" />
-        <option value="$PROJECT_DIR$/HelloProject/src/endsWithTest/EndsWithMain.java" />
-        <option value="$PROJECT_DIR$/HelloProject/src/subString1/SubString1.java" />
-        <option value="$PROJECT_DIR$/HelloProject/src/subString1/SubString2.java" />
-        <option value="$PROJECT_DIR$/HelloProject/src/subString1/TestMain.java" />
-        <option value="$PROJECT_DIR$/HelloProject/src/subString3/TestMain.java" />
-        <option value="$PROJECT_DIR$/HelloProject/src/dateTest/DateMain.java" />
-        <option value="$PROJECT_DIR$/HelloProject/src/calendarTest/CalendarMain.java" />
-        <option value="$PROJECT_DIR$/HelloProject/src/calendarTest/CountMain.java" />
-        <option value="$PROJECT_DIR$/HelloProject/src/calendarTest/BirthdayMain.java" />
+        <option value="$PROJECT_DIR$/HelloProject/src/collectionTest/CollectionTest2.java" />
+        <option value="$PROJECT_DIR$/HelloProject/src/enumerationTest/EnumerationMain.java" />
+        <option value="$PROJECT_DIR$/HelloProject/src/collectionTest/CollectionMain.java" />
+        <option value="$PROJECT_DIR$/HelloProject/src/hasMapTest/HasMapMain.java" />
+        <option value="$PROJECT_DIR$/HelloProject/src/genericTest/ArrayListMain.java" />
+        <option value="$PROJECT_DIR$/HelloProject/src/genericTest/MarketMain.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="695" />
-    <option name="width" value="1232" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="752" />
+    <option name="width" value="1175" />
     <option name="height" value="1057" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
-    <navigator proportions="" version="1">
+    <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane" />
+      <pane id="Scope" />
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="eclipse-JHSworkspace" type="58d84e3e:PackageViewProjectNode" />
+              <item name="HelloProject" type="616d4139:PackageViewModuleNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="C:/Program Files/Git/git-cmd.exe" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/NewProject" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -124,13 +144,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BirthdayMain">
-    <configuration name="BirthdayMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="calendarTest.BirthdayMain" />
+  <component name="RunManager" selected="Application.ArrayListMain">
+    <configuration name="ArrayListMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="genericTest.ArrayListMain" />
       <module name="HelloProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="calendarTest.*" />
+          <option name="PATTERN" value="genericTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,12 +158,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CalendarMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="calendarTest.CalendarMain" />
+    <configuration name="CollectionMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collectionTest.CollectionMain" />
       <module name="HelloProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="calendarTest.*" />
+          <option name="PATTERN" value="collectionTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -151,12 +171,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CountMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="calendarTest.CountMain" />
+    <configuration name="CollectionTest2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collectionTest.CollectionTest2" />
       <module name="HelloProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="calendarTest.*" />
+          <option name="PATTERN" value="collectionTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -164,12 +184,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DateMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dateTest.DateMain" />
+    <configuration name="EnumerationMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="enumerationTest.EnumerationMain" />
       <module name="HelloProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dateTest.*" />
+          <option name="PATTERN" value="enumerationTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -177,12 +197,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="subString1.TestMain" />
+    <configuration name="HasMapMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hasMapTest.HasMapMain" />
       <module name="HelloProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="subString1.*" />
+          <option name="PATTERN" value="hasMapTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -190,34 +210,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="subString3.TestMain" />
-      <module name="HelloProject" />
-      <option name="PROGRAM_PARAMETERS" value="&quot;ondal&quot;" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="subString3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <list>
-      <item itemvalue="Application.TestMain" />
-      <item itemvalue="Application.DateMain" />
-      <item itemvalue="Application.CalendarMain" />
-      <item itemvalue="Application.CountMain" />
-      <item itemvalue="Application.BirthdayMain" />
-    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BirthdayMain" />
-        <item itemvalue="Application.CountMain" />
-        <item itemvalue="Application.CalendarMain" />
-        <item itemvalue="Application.DateMain" />
-        <item itemvalue="Application.TestMain" />
+        <item itemvalue="Application.ArrayListMain" />
+        <item itemvalue="Application.HasMapMain" />
+        <item itemvalue="Application.CollectionMain" />
+        <item itemvalue="Application.EnumerationMain" />
+        <item itemvalue="Application.CollectionTest2" />
       </list>
     </recent_temporary>
   </component>
@@ -226,36 +225,36 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="da44a62b-f459-4d9d-9a63-1b1920889d20" name="Default Changelist" comment="" />
-      <created>1554707775987</created>
+      <changelist id="a26545e5-abc8-47f3-ab00-46e398294659" name="Default Changelist" comment="" />
+      <created>1555402536798</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1554707775987</updated>
+      <updated>1555402536798</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="695" y="0" width="1232" height="1057" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1996587" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23560767" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="UI Designer" order="5" />
-      <window_info id="Learn" order="6" weight="0.32994923" />
+      <window_info id="Learn" order="6" />
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.13867822" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2637969" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32998884" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32998884" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32827735" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32998884" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -264,443 +263,66 @@
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Coverage" order="8" side_tool="true" weight="0.24450085" />
     </layout>
   </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State>
-              <option name="RECENTLY_FILTERED_USER_GROUPS">
-                <collection />
-              </option>
-              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
-                <collection />
-              </option>
-              <option name="COLUMN_ORDER">
-                <list>
-                  <option value="0" />
-                  <option value="1" />
-                  <option value="2" />
-                  <option value="3" />
-                </list>
-              </option>
-            </State>
-          </value>
-        </entry>
-      </map>
-    </option>
-    <option name="RECENT_FILTERS">
-      <map>
-        <entry key="Branch">
-          <value>
-            <list />
-          </value>
-        </entry>
-        <entry key="User">
-          <value>
-            <list />
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
-  <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/eclipse_JHSworkspace$Duhe.ic" NAME="Duhe Coverage Results" MODIFIED="1554801184686" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>duhe.*</FILTER>
-    </SUITE>
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/HelloProject/src/carTest/BBang.java" />
-    <entry file="file://$PROJECT_DIR$/HelloProject/src/inheritanceTest/InheritanceTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-          <folding>
-            <element signature="e#92#93#0" expanded="true" />
-            <element signature="e#151#152#0" expanded="true" />
-            <element signature="e#674#675#0" expanded="true" />
-            <element signature="e#693#694#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HelloProject/src/inheritanceTest/World.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-342">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-          <folding>
-            <element signature="e#70#71#0" expanded="true" />
-            <element signature="e#89#90#0" expanded="true" />
-            <element signature="e#182#183#0" expanded="true" />
-            <element signature="e#207#208#0" expanded="true" />
-            <element signature="e#475#476#0" expanded="true" />
-            <element signature="e#510#511#0" expanded="true" />
-            <element signature="e#297#298#0" expanded="true" />
-            <element signature="e#356#357#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HelloProject/src/objectTest/Bakery.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="54" selection-start-line="54" selection-end-line="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HelloProject/src/Coffee/Coffee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
-          <folding>
-            <element signature="e#108#109#0" expanded="true" />
-            <element signature="e#128#129#0" expanded="true" />
-            <element signature="e#187#188#0" expanded="true" />
-            <element signature="e#209#210#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HelloProject/src/InheritanceTest2/CastTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="12" selection-end-line="54" />
-          <folding>
-            <element signature="e#336#337#0" expanded="true" />
-            <element signature="e#421#422#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HelloProject/src/childParent/Child7.java" />
-    <entry file="file://$PROJECT_DIR$/HelloProject/src/carTest/Bakery.java" />
-    <entry file="file://$PROJECT_DIR$/HelloProject/src/bankTest/Bank.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HelloProject/src/carGame/CarGame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="472">
-          <caret line="44" selection-start-line="44" selection-end-line="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HelloProject/src/bankTest/BankAccount.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/HelloProject/src/turtleTest/Square.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="24" column="33" selection-start-line="24" selection-start-column="33" selection-end-line="24" selection-end-column="33" />
+        <state relative-caret-position="1170">
+          <caret line="45" column="2" selection-start-line="45" selection-start-column="2" selection-end-line="45" selection-end-column="2" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#0#942#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HelloProject/src/childParent/CarBaseSuper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="436">
-          <caret line="27" column="39" selection-start-line="27" selection-start-column="39" selection-end-line="27" selection-end-column="39" />
-          <folding>
-            <element signature="e#102#103#0" expanded="true" />
-            <element signature="e#132#133#0" expanded="true" />
-            <element signature="e#159#160#0" expanded="true" />
-            <element signature="e#221#222#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HelloProject/src/bakeryCopy1/Bakery.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1482">
-          <caret line="69" lean-forward="true" selection-start-line="69" selection-end-line="69" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HelloProject/src/duhe/Duhe.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="18" column="35" lean-forward="true" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HelloProject/src/dogV1SorterMainV1/DogV1SorterMainV1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HelloProject/src/sawon/Sawon.java" />
-    <entry file="file://$PROJECT_DIR$/HelloProject/src/interfaceClass/InterfaceClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-312">
-          <caret line="9" column="60" selection-start-line="9" selection-start-column="60" selection-end-line="9" selection-end-column="60" />
-          <folding>
-            <element signature="e#69#70#0" expanded="true" />
-            <element signature="e#104#105#0" expanded="true" />
-            <element signature="e#603#604#0" expanded="true" />
-            <element signature="e#666#667#0" expanded="true" />
-            <element signature="e#866#867#0" expanded="true" />
-            <element signature="e#901#902#0" expanded="true" />
-            <element signature="e#1300#1301#0" expanded="true" />
-            <element signature="e#1358#1359#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HelloProject/src/sawon/SawonMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="546">
-          <caret line="24" column="8" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HelloProject/src/albaman/AlbamanMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-          <folding>
-            <element signature="e#69#70#0" expanded="true" />
-            <element signature="e#137#138#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/jshell/jshell_console.snippet">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="31" lean-forward="true" selection-start-column="31" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HelloProject/src/abstractTest/KwailMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HelloProject/src/rectangleMain/RectangleMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1378">
-          <caret line="74" column="21" selection-start-line="74" selection-start-column="21" selection-end-line="74" selection-end-column="21" />
-          <folding>
-            <element signature="e#653#654#0" expanded="true" />
-            <element signature="e#685#686#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HelloProject/src/shapeTest/ShapeMain.java">
+    <entry file="file://$PROJECT_DIR$/HelloProject/src/collectionTest/CollectionTest2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="208">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <caret line="8" column="37" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HelloProject/src/GUItest/GuiMain.java">
+    <entry file="file://$PROJECT_DIR$/HelloProject/src/enumerationTest/EnumerationMain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1144">
-          <caret line="45" column="31" selection-start-line="45" selection-start-column="31" selection-end-line="45" selection-end-column="31" />
+        <state relative-caret-position="443">
+          <caret line="24" column="55" selection-start-line="24" selection-start-column="55" selection-end-line="24" selection-end-column="55" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HelloProject/src/tryCatch/TryCatchMain2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="546">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HelloProject/src/tryCatch/TryCatchMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="18" column="34" selection-end-line="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HelloProject/src/throwTest2/ThrowTestMain2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="574">
-          <caret line="30" column="40" selection-start-line="30" selection-start-column="40" selection-end-line="30" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HelloProject/src/throwTest/ThrowTestMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="6" column="11" lean-forward="true" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HelloProject/src/ondalTest/OndalTestMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HelloProject/src/stringBuffer/StringBufferMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="546">
-          <caret line="28" column="40" selection-start-line="28" selection-start-column="40" selection-end-line="28" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HelloProject/src/ondalTest/OndalTestMain2.java">
+    <entry file="file://$PROJECT_DIR$/HelloProject/src/collectionTest/CollectionMain.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="364">
           <caret line="14" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HelloProject/src/hangMan/HangMan.java">
+    <entry file="file://$PROJECT_DIR$/HelloProject/src/hasMapTest/HasMapMain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-702">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HelloProject/src/indexOfTest/IndexOfMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="19" column="50" selection-start-line="19" selection-start-column="50" selection-end-line="19" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HelloProject/src/indexOfTest/FindMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="1" selection-start-line="1" selection-end-line="49" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HelloProject/src/charAtTest/CharAtMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HelloProject/src/indexOfTest/FindMain2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="522">
-          <caret line="45" column="76" selection-start-line="45" selection-start-column="76" selection-end-line="45" selection-end-column="76" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HelloProject/src/endsWithTest/EndsWithMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HelloProject/src/splitTest/SplitMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HelloProject/src/subString1/SubString2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="17" column="35" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HelloProject/src/subString1/SubString1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="27" column="52" selection-start-line="27" selection-start-column="52" selection-end-line="27" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HelloProject/src/subString1/TestMain.java" />
-    <entry file="file://$PROJECT_DIR$/HelloProject/src/subString3/TestMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="23" column="37" selection-start-line="23" selection-start-column="37" selection-end-line="23" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HelloProject/src/dateTest/DateMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="23" column="58" selection-start-line="23" selection-start-column="58" selection-end-line="23" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HelloProject/src/calendarTest/CalendarMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="44" selection-start-line="16" selection-start-column="44" selection-end-line="16" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HelloProject/src/calendarTest/CountMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="25" column="47" selection-start-line="25" selection-start-column="47" selection-end-line="25" selection-end-column="47" />
+        <state relative-caret-position="309">
+          <caret line="34" column="40" selection-start-line="34" selection-start-column="40" selection-end-line="34" selection-end-column="40" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#419#435#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HelloProject/src/calendarTest/BirthdayMain.java">
+    <entry file="file://$PROJECT_DIR$/HelloProject/src/genericTest/ArrayListMain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="292">
+          <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HelloProject/PackageimportProject.iml">
+    <entry file="file://$PROJECT_DIR$/HelloProject/src/genericTest/MarketMain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+        <state relative-caret-position="156">
+          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HelloProject/src/bmi/BMI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="29" lean-forward="true" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PackageimportProject/src/screenpkg/Screen.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-          <folding>
-            <element signature="e#67#68#0" expanded="true" />
-            <element signature="e#111#112#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PackageimportProject/src/mainpkg/MainClass.java">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
   <component name="masterDetails">
@@ -719,7 +341,6 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
-          <last-edited>No facets are configured</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -753,7 +374,19 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>test</last-edited>
+          <last-edited>HelloProject</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -764,18 +397,6 @@
         </settings>
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <last-edited>aplujar5</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ScopeChooserConfigurable.UI">
         <settings>
           <splitter-proportions>
             <option name="proportions">
