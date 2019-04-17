@@ -61,10 +61,5 @@ public class GenericMain extends Market2 {
         System.out.print("Compair Price? >> ");
         int price = sc.nextInt();
         Market2.compairPrint(market,price);
-
-
-
-
-
     }
 }
