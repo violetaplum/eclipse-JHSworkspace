@@ -9,37 +9,39 @@ public class SwapFileMain {
         BufferedReader brbb = new BufferedReader(new FileReader("C:/Users/KGITBANK/Downloads/bb.txt"));
         BufferedReader brcc = new BufferedReader(new FileReader("C:/Users/KGITBANK/Downloads/cc.txt"));
 
-        BufferedWriter bwaa = new BufferedWriter(new FileWriter("C:/Users/KGITBANK/Downloads/aa.txt"));
-        BufferedWriter bwbb = new BufferedWriter(new FileWriter("C:/Users/KGITBANK/Downloads/bb.txt"));
-        BufferedWriter bwcc = new BufferedWriter(new FileWriter("C:/Users/KGITBANK/Downloads/cc.txt"));
-
-
-
         String saa = null;
         String sbb = null;
         String scc = null;
 
-        while((saa=braa.readLine())!=null)
+        PrintWriter pwc = new PrintWriter(new BufferedWriter(new FileWriter("C:/Users/KGITBANK/Downloads/cc.txt")));
+        //
+        while( (saa=braa.readLine()) != null )
         {
-           bwcc.write(saa);
 
+            pwc.println(saa);
         }
         braa.close();
-        bwcc.close();
+        pwc.close();
+
+        PrintWriter pwa = new PrintWriter(new BufferedWriter(new FileWriter("C:/Users/KGITBANK/Downloads/aa.txt")));
+
         while((sbb=brbb.readLine())!=null)
         {
-            bwaa.write(sbb);
+            pwa.write(sbb);
 
         }
         brbb.close();
-        bwaa.close();
+        pwa.close();
+
+        PrintWriter pwb = new PrintWriter(new BufferedWriter(new FileWriter("C:/Users/KGITBANK/Downloads/bb.txt")));
+
         while((scc=brcc.readLine())!=null)
         {
-            bwbb.write(scc);
+            pwb.write(scc);
 
         }
         brcc.close();
-        bwbb.close();
+        pwb.close();
 
     }
 }
