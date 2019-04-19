@@ -1,38 +1,23 @@
 package threadTest;
 import java.util.Random;
 
-public class ThreadMain extends Thread
+class ThreadClass extends Thread
 {
-    private static int index = 0;
-    private int id = -1;
-    public ThreadMain(int id)
+
+    public void run()  //스레드가 생성되면 run()이 수행된다. 이는 Thread를 상속받은 클래스객체.start()를 하면 된다.
     {
-        this.id = id;
+
+        System.out.println("스레드와 오늘부터 1일~~~~");
     }
-    public void run()
-    {
-        System.out.println(id+"번 스레드 동작중!!");
-        Random r = new Random(System.currentTimeMillis());
-        try
-        {
-            long s = r.nextInt(3000);
-            Thread.sleep(s); //Thread.sleep(Random.nextInt(bound);
-            index++;
-        }
-        catch(InterruptedException e)
-        {
-            e.printStackTrace();
-        }
-        System.out.println(id+"번 스레드 동작 종료..");
-    }
+}
+
+public class ThreadMain extends ThreadClass
+{
     public static void main(String[] args)
     {
-        System.out.println("Start main method. ");
-        for(int i=0;i<10;i++)
-        {
-            ThreadMain test = new ThreadMain(i);
-            test.start(); //Thread 내의 run()이 실행된다.
-        }
+        ThreadClass test = new ThreadClass();   //delegation (위임하다) : C 언어의 포인터와 같은말
+        test.start();   //스레드 가동해라.. 실행명령은 아니다.
+        //스레드를 하면 뭐가 먼저 찍힐지 모른다.
+        System.out.println("스레드 가자!!");
     }
-
 }
