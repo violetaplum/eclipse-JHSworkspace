@@ -13,8 +13,10 @@ public class JDBCMain4 {
         //update table_name
         //set
         //where
-        PreparedStatement ps = conn.prepareStatement(sql);
 
+        PreparedStatement ps = conn.prepareStatement(sql);
+                                //Connection.prepareStatement(String);
+                                //Connection.createStatement();
         System.out.print("Insert jik to change >> ");
         String jik = sc.next();
         ps.setString(1,jik);  //sawon_id

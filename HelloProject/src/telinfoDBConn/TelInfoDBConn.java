@@ -5,11 +5,14 @@ import java.sql.SQLException;
 
 public class TelInfoDBConn {
     private Connection con;
-    public Connection getConnection()
+
+    public Connection getConnection()   //Connection객체 리턴 메소드
     {
         return con;
     }
-    public TelInfoDBConn() throws ClassNotFoundException, SQLException
+
+    public TelInfoDBConn()  //Connection객체와 DB 연결 해주는 생성자
+            throws ClassNotFoundException, SQLException
     {
         Class.forName("oracle.jdbc.driver.OracleDriver");
         con = DriverManager.getConnection("jdbc:oracle:thin:@127.0.0.1:1521:xe","hr","hr");
