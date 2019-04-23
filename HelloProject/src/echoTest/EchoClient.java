@@ -7,7 +7,7 @@ public class EchoClient {
     public static void main(String[] args) throws UnknownHostException, IOException
     {
         Scanner sc = new Scanner(System.in);
-        Socket s = new Socket("127.0.0.1",7113); //Server의 포트번호와 동일하다.
+        Socket s = new Socket("127.0.0.1",7185); //Server의 포트번호와 동일하다.
         BufferedReader br1 = new BufferedReader(new InputStreamReader(s.getInputStream()));
         BufferedWriter bw1 = new BufferedWriter(new OutputStreamWriter(s.getOutputStream()));
         //Buffered~ : 은 문자열 단위 이므로 도우미이다.
@@ -25,8 +25,9 @@ public class EchoClient {
             //server로 보냄 키보드 받은 것을 0번째부터 모든 길이만큼 전부다 전송
             bw1.newLine();// 줄바꿈도 보냄
             bw1.flush();// 무조건 전송한 후 buffer 비움
+
             String bada2fromServer = br1.readLine(); //server로부터 받음
-            System.out.println("서버로부터 다시 왔다는~~~"+ bada2fromServer);
+            System.out.println(bada2fromServer);
         }
         s.close();
 
