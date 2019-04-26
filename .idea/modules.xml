@@ -4,8 +4,9 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/HelloProject/HelloProject.iml" filepath="$PROJECT_DIR$/HelloProject/HelloProject.iml" />
       <module fileurl="file://$PROJECT_DIR$/Love/Love.iml" filepath="$PROJECT_DIR$/Love/Love.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NewProject/NewProject.iml" filepath="$PROJECT_DIR$/NewProject/NewProject.iml" />
       <module fileurl="file://$PROJECT_DIR$/PackageimportProject/PackageimportProject.iml" filepath="$PROJECT_DIR$/PackageimportProject/PackageimportProject.iml" />
-      <module fileurl="file://$PROJECT_DIR$//TelInfoProject.iml" filepath="$PROJECT_DIR$//TelInfoProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TelInfoProject/TelInfoProject.iml" filepath="$PROJECT_DIR$/TelInfoProject/TelInfoProject.iml" />
     </modules>
   </component>
 </project>

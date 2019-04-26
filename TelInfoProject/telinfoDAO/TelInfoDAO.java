@@ -1,9 +1,9 @@
 package telinfoDAO;
 import telinfoDBConn.TelInfoDBConn;
 import telinfoVO.TelInfoVO;
-import java.sql.*;
-import java.util.*;
+
 import java.util.Date;
+
 
 public class TelInfoDAO
 {
