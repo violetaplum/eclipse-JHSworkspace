@@ -64,6 +64,7 @@ public class MarketMain {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 			ArrayList<Market> mr = new ArrayList<>();
+			 
 			mr.add(new Market("¿ìÀ¯",1200,100,300));
 			mr.add(new Market("¸¶´Ã»§",900,700,150));
 			mr.add(new Market("ÇÇÀÚ»§",1700,200,50));
