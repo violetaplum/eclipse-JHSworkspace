@@ -1,4 +1,4 @@
-package stackTest;
+package src.stackTest;
 import java.util.*;
 
 public class StackMain {

@@ -10,7 +10,7 @@ import java.io.*;
 public class TcpServerIMG {
     public static void main(String[] args) throws Exception
     {
-        ServerSocket ss1 = new ServerSocket(57799);
+        ServerSocket ss1 = new ServerSocket(7799);
         System.out.println("서버 준비되어 있음,....");
         while(true)
         {
@@ -18,7 +18,7 @@ public class TcpServerIMG {
             Socket s1 = ss1.accept();
             System.out.println(s1.getInetAddress());
 
-            File file1 = new File("E:/spring.jpg");
+            File file1 = new File("/home/violeta/Pictures/IMG_1990.jpg");
             BufferedImage buffimage1 = ImageIO.read(file1);
             ImageIO.write(buffimage1,"jpg",s1.getOutputStream());
             s1.close();

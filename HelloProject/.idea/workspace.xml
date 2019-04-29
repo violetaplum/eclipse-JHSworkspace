@@ -1,0 +1,581 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4d4e29d3-7305-4b25-bd4d-ae0080cf7a4c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/rainNumber/RainTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/starSandClock/StarTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test_codes/SandCockTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GUI/src/cardLayout/CardLayoutMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/../GUI/src/cardLayout/CardLayoutMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/BinarySearch/BinarySearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/BinarySearch/BinarySearch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Coffee/Arabica.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Coffee/Arabica.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Coffee/Coffee.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Coffee/Coffee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Coffee/CoffeeBeans.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Coffee/CoffeeBeans.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Coffee/Robusta.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Coffee/Robusta.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/GUItest/BMIGUI2$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/GUItest/BMIGUI2$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/GUItest/BMIGUI2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/GUItest/BMIGUI2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/GUItest/GuiMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/GUItest/GuiMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/HelloClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/HelloClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/InheritanceTest2/CastTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/InheritanceTest2/CastTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/InheritanceTest2/Child.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/InheritanceTest2/Child.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/InheritanceTest2/Parent.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/InheritanceTest2/Parent.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JDBCMain/JDBCMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JDBCMain/JDBCMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JDBCMain/JDBCMain2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JDBCMain/JDBCMain2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JDBCMain/JDBCMain3.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JDBCMain/JDBCMain3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JDBCMain/JDBCMain4.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JDBCMain/JDBCMain4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JDBCMain/JDBCTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JDBCMain/JDBCTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/META-INF/HelloProject.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/abstractTest/Apple.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/abstractTest/Apple.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/abstractTest/Kwail.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/abstractTest/Kwail.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/abstractTest/KwailMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/abstractTest/KwailMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/abstractTest/Pear.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/abstractTest/Pear.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/abstractTest/Persimmon.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/abstractTest/Persimmon.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/albaman/Albaman.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/albaman/Albaman.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/albaman/AlbamanMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/albaman/AlbamanMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/albaman/Na.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/albaman/Na.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/albaman/Quickman.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/albaman/Quickman.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/amazonGo/AmazonGoMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/amazonGo/AmazonGoMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/amazonGo/Mart.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/amazonGo/Mart.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/amazonGo/Mart1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/amazonGo/Mart1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/amazonGo/Mart2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/amazonGo/Mart2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/arrayEx/ArrayEx.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/arrayEx/ArrayEx.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/arrayEx/ArrayTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/arrayEx/ArrayTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/arrayEx/ArrayTwoDimention.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/arrayEx/ArrayTwoDimention.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/bakeryCopy1/BBang.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/bakeryCopy1/BBang.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/bakeryCopy1/Bakery.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/bakeryCopy1/Bakery.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/bankTest/Bank.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/bankTest/Bank.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/bankTest/BankAccount.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/bankTest/BankAccount.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/bmi/BMI.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/bmi/BMI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/bubbleSort/BubbleTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/bubbleSort/BubbleTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/calendarTest/BirthdayMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/calendarTest/BirthdayMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/calendarTest/CalendarMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/calendarTest/CalendarMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/calendarTest/CountMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/calendarTest/CountMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/car/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/car/Car.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/car/MyCar.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/car/MyCar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/carGame/CarGame.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/carGame/CarGame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/carGame/Child.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/carGame/Child.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/carGame/Parent.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/carGame/Parent.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/charAtTest/CharAtMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/charAtTest/CharAtMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/charAtTest/Find.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/charAtTest/Find.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/charToString/CharToString.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/charToString/CharToString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/chattingTest/ThreadSyncClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/chattingTest/ThreadSyncClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/chattingTest/ThreadSyncMainClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/chattingTest/ThreadSyncMainClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/childParent/CarBaseSuper.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/childParent/CarBaseSuper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/childParent/Child7.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/childParent/Child7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/childParent/Parent7.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/childParent/Parent7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/collectionTest/CollectionMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/collectionTest/CollectionMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/dateTest/DateMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/dateTest/DateMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/dogV1SorterMainV1/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/dogV1SorterMainV1/Dog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/dogV1SorterMainV1/DogV1SorterMainV1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/dogV1SorterMainV1/DogV1SorterMainV1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/duhe/Duhe.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/duhe/Duhe.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/echoTest/EchoClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/echoTest/EchoClient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/echoTest/EchoServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/echoTest/EchoServer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/endsWithTest/EndsWithMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/endsWithTest/EndsWithMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/enumerationTest/EnumerationMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/enumerationTest/EnumerationMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/fileTest/File2Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/fileTest/File2Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/fileTest/File3Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/fileTest/File3Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/fileTest/FileMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/fileTest/FileMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/fileTest/SwapFileMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/fileTest/SwapFileMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/fileTest/SwapFileMain2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/fileTest/SwapFileMain2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/for_switch/Switch.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/for_switch/Switch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/genericTest/ArrayListMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/genericTest/ArrayListMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/genericTest/Market.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/genericTest/Market.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/genericTest/MarketMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/genericTest/MarketMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/hangMan/HangMan.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/hangMan/HangMan.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/hasMapTest/HasMapMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/hasMapTest/HasMapMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/hashMapTest/HashmapMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/hashMapTest/HashmapMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/indexOfTest/Find.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/indexOfTest/Find.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/indexOfTest/Find2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/indexOfTest/Find2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/indexOfTest/FindMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/indexOfTest/FindMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/indexOfTest/FindMain2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/indexOfTest/FindMain2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/indexOfTest/IndexOfMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/indexOfTest/IndexOfMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/inheritanceTest/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/inheritanceTest/Animal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/inheritanceTest/Bird.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/inheritanceTest/Bird.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/inheritanceTest/Boomo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/inheritanceTest/Boomo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/inheritanceTest/Fish.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/inheritanceTest/Fish.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/inheritanceTest/InheritanceTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/inheritanceTest/InheritanceTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/inheritanceTest/Janyu.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/inheritanceTest/Janyu.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/inheritanceTest/World.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/inheritanceTest/World.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/interfaceClass/Booja.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/interfaceClass/Booja.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/interfaceClass/InterfaceClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/interfaceClass/InterfaceClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/interfaceClass/Joboomo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/interfaceClass/Joboomo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/interfaceClass/Na.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/interfaceClass/Na.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/interfaceClass/Samchon.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/interfaceClass/Samchon.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/interfaceClass/You.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/interfaceClass/You.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/lotto/Lotto.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/lotto/Lotto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/menu/Menu.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/menu/Menu.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/methodTest/MethodTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/methodTest/MethodTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/methodTest2/Joonbi.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/methodTest2/Joonbi.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/methodTest2/MethodeTest2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/methodTest2/MethodeTest2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/methodTest3/MethodTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/methodTest3/MethodTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/month/Month.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/month/Month.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/objectTest/BBang.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/objectTest/BBang.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/objectTest/Bakery.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/objectTest/Bakery.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/ondalTest/OndalTestMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/ondalTest/OndalTestMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/ondalTest/OndalTestMain2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/ondalTest/OndalTestMain2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/oracleTest/OracleTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/oracleTest/OracleTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/overLoad/OverLoad.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/overLoad/OverLoad.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/queueTest/QueueMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/queueTest/QueueMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/rainNumber/RainNumberMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/rainNumber/RainNumberMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/rectangleMain/Circle.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/rectangleMain/Circle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/rectangleMain/Rectangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/rectangleMain/Rectangle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/rectangleMain/RectangleMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/rectangleMain/RectangleMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/rectangleMain/Shape.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/rectangleMain/Shape.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/repeat/Repeat.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/repeat/Repeat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/runnableTest/RunnableClass1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/runnableTest/RunnableClass1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/runnableTest/RunnableClass2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/runnableTest/RunnableClass2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/runnableTest/RunnableClass3.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/runnableTest/RunnableClass3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/runnableTest/RunnableClass4.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/runnableTest/RunnableClass4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/runnableTest/RunnableClass5.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/runnableTest/RunnableClass5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/runnableTest/RunnableMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/runnableTest/RunnableMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/runnableTest/RunnableMain2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/runnableTest/RunnableMain2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/runnableTest/RunnableMain3.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/runnableTest/RunnableMain3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/runnableTest/RunnableMain4.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/runnableTest/RunnableMain4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sawon/Sawon.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/sawon/Sawon.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sawon/SawonMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/sawon/SawonMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/score/Score.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/score/Score.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/scoreHashMapTest/Score.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/scoreHashMapTest/Score.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/scoreHashMapTest/ScoreMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/scoreHashMapTest/ScoreMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sequenceSearch/SequenceSearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/sequenceSearch/SequenceSearch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/shapeTest/Circle.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/shapeTest/Circle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/shapeTest/Rectangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/shapeTest/Rectangle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/shapeTest/Shape.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/shapeTest/Shape.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/shapeTest/ShapeMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/shapeTest/ShapeMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/slimeMain/SlimeMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/slimeMain/SlimeMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/socketTest/ChatThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/socketTest/ChatThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/socketTest/SocketMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/socketTest/SocketMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/socketTest/SocketMain2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/socketTest/SocketMain2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/socketTest/SocketMain3.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/socketTest/SocketMain3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/socketTest/SocketMain4.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/socketTest/SocketMain4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/socketTest/SocketMain5.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/socketTest/SocketMain5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sortTest/SortTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/sortTest/SortTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/splitTest/SplitMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/splitTest/SplitMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/stackTest/StackMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/starSandClock/StarSandClockMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/starSandClock/StarSandClockMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/stringBuffer/SentenceBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/stringBuffer/SentenceBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/stringBuffer/StringBufferMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/stringBuffer/StringBufferMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/stringTestt/StringTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/stringTestt/StringTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/subString1/SubString1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/subString1/SubString1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/subString1/SubString2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/subString1/SubString2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/subString3/TestMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/subString3/TestMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/swap/SwapTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/swap/SwapTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/tcpServerImage/TcpClientIMG.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/tcpServerImage/TcpClientIMG.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/tcpServerImage/TcpServerIMG.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/tcpServerImage/TcpServerIMG.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/telinfoDAO/TelInfoDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/telinfoDAO/TelInfoDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/telinfoDBConn/TelInfoDBConn.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/telinfoDBConn/TelInfoDBConn.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/telinfoPrintMain/TelInfoMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/telinfoPrintMain/TelInfoMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/telinfoVO/TelInfoVO.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/telinfoVO/TelInfoVO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/tests/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/threadTest/ThreadClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/threadTest/ThreadClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/threadTest/ThreadClass2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/threadTest/ThreadClass2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/threadTest/ThreadClass3.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/threadTest/ThreadClass3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/threadTest/ThreadClass4.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/threadTest/ThreadClass4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/threadTest/ThreadClass5.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/threadTest/ThreadClass5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/threadTest/ThreadClass6.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/threadTest/ThreadClass6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/threadTest/ThreadMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/threadTest/ThreadMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/threadTest/ThreadMain2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/threadTest/ThreadMain2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/threadTest/ThreadMain3.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/threadTest/ThreadMain3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/threadTest/ThreadMain4.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/threadTest/ThreadMain4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/threadTest2/ThreadClass1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/threadTest2/ThreadClass1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/threadTest2/ThreadClass2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/threadTest2/ThreadClass2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/threadTest2/ThreadMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/threadTest2/ThreadMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/threeThreadtest/ThreeThreadClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/threeThreadtest/ThreeThreadClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/threeThreadtest/ThreeThreadMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/threeThreadtest/ThreeThreadMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/throwTest/ThrowTestMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/throwTest/ThrowTestMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/throwTest2/ThrowTestMain2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/throwTest2/ThrowTestMain2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/totalScore/TotalScore.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/totalScore/TotalScore.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/tryCatch/TryCatchMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/tryCatch/TryCatchMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/tryCatch/TryCatchMain2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/tryCatch/TryCatchMain2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/year/Year.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/year/Year.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/rainNumber/RainNumberMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rainNumber/RainNumberMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/slimeMain/SlimeMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/slimeMain/SlimeMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stackTest/StackMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/stackTest/StackMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tcpServerImage/TcpClientIMG.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tcpServerImage/TcpClientIMG.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tcpServerImage/TcpServerIMG.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tcpServerImage/TcpServerIMG.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tests/Test.java" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/classes/" />
+    <ignored path="$PROJECT_DIR$/bin/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="600">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/slimeMain/SlimeMain.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="886">
+              <caret line="120" column="31" lean-forward="true" selection-start-line="120" selection-start-column="31" selection-end-line="120" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/starSandClock/StarSandClockMain.java" />
+        <option value="$PROJECT_DIR$/src/tcpServerImage/TcpClientIMG.java" />
+        <option value="$PROJECT_DIR$/src/tcpServerImage/TcpServerIMG.java" />
+        <option value="$PROJECT_DIR$/src/starSandClock/StarTest.java" />
+        <option value="$PROJECT_DIR$/src/rainNumber/RainNumberMain.java" />
+        <option value="$PROJECT_DIR$/src/rainNumber/RainTest.java" />
+        <option value="$PROJECT_DIR$/src/slimeMain/SlimeMain.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="704" />
+    <option name="y" value="30" />
+    <option name="width" value="1590" />
+    <option name="height" value="1333" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="HelloProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HelloProject" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HelloProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HelloProject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HelloProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HelloProject" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="slimeMain" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HelloProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/aplu5.jar!/" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.064415276" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.SlimeMain">
+    <configuration name="RainNumberMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="rainNumber.RainNumberMain" />
+      <module name="HelloProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="rainNumber.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RainTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="rainNumber.RainTest" />
+      <module name="HelloProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="rainNumber.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SlimeMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="slimeMain.SlimeMain" />
+      <module name="HelloProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="slimeMain.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StarTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="starSandClock.StarTest" />
+      <module name="HelloProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="starSandClock.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TcpClientIMG" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tcpServerImage.TcpClientIMG" />
+      <module name="HelloProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tcpServerImage.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SlimeMain" />
+        <item itemvalue="Application.RainTest" />
+        <item itemvalue="Application.RainNumberMain" />
+        <item itemvalue="Application.StarTest" />
+        <item itemvalue="Application.TcpClientIMG" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4d4e29d3-7305-4b25-bd4d-ae0080cf7a4c" name="Default Changelist" comment="" />
+      <created>1556425673591</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1556425673591</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="30" width="3200" height="1770" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.25824177" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3086336" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32970768" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.1692726" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/hashMapTest/HashmapMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="645">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tcpServerImage/TcpServerIMG.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="903">
+          <caret line="25" column="9" lean-forward="true" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tcpServerImage/TcpClientIMG.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="774">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/starSandClock/StarTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="860">
+          <caret line="20" column="32" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/starSandClock/StarSandClockMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="344">
+          <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/rainNumber/RainTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="8" column="7" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/rainNumber/RainNumberMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1764">
+          <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/slimeMain/SlimeMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="886">
+          <caret line="120" column="31" lean-forward="true" selection-start-line="120" selection-start-column="31" selection-end-line="120" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>HelloProject</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

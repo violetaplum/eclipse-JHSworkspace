@@ -2,43 +2,43 @@ package cardLayout;
 import java.awt.*;
 import java.awt.event.*;
 
- 
+
 
  class CardLayoutMain extends Frame  { ////////////////////
 
- 
+
 
 Frame f1;
 
 Panel pan1;
 
-Panel pan2;   
+Panel pan2;
 
 Panel pan3;
 
 CardLayout clo1;
 
- 
 
-public CardLayoutMain() //»ý¼ºÀÚ¸ÕÀú°¡µ¿ 
+
+public CardLayoutMain() //ï¿½ï¿½ï¿½ï¿½ï¿½Ú¸ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
 
 	{
 
-	  f1=new Frame("³ª~~~ÇÁ·¹ÀÓÀÌ¶ó´Â");//////////
+	  f1=new Frame("ï¿½ï¿½~~~ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì¶ï¿½ï¿½ï¿½");//////////
 
 	  clo1=new CardLayout(); ////////////
 
-	  f1.setLayout(clo1); //Ä«µå½ÄÀ¸·Î  ¹èÄ¡
+	  f1.setLayout(clo1); //Ä«ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½  ï¿½ï¿½Ä¡
 
-       
+
 
 	  pan1=new Panel();
 
 	  pan1.setBackground(Color.red);
 
-	  f1.add(pan1,"pan1"); //pan1ÀÇ º°¸íÀº "pan1"
+	  f1.add(pan1,"pan1"); //pan1ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ "pan1"
 
-	  
+
 
 	  pan2=new Panel();
 
@@ -84,19 +84,19 @@ public class CardLayoutMain extends Frame{
 
 		clo1.show(f1, "pan3");
 =======
-		
+
 
 	  pan3=new Panel();
 
 	  pan3.setBackground(Color.blue);
 
-	  f1.add(pan3,"pan3"); 
+	  f1.add(pan3,"pan3");
 
-		
 
-	  clo1.show(f1, "pan3"); //3ÀåÀÇ Ä«µåÁß ÃÊ±â¿¡ º¸ÀÌ´Â °ÍÀº pan3 º°¸íÀÇ ÆÄ¶õ»ö ÆÐ³Î 
 
-		
+	  clo1.show(f1, "pan3"); //3ï¿½ï¿½ï¿½ï¿½ Ä«ï¿½ï¿½ï¿½ï¿½ ï¿½Ê±â¿¡ ï¿½ï¿½ï¿½Ì´ï¿½ ï¿½ï¿½ï¿½ï¿½ pan3 ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½Ä¶ï¿½ï¿½ï¿½ ï¿½Ð³ï¿½
+
+
 >>>>>>> ac270a17bafd1375eaaad435f837e9662afb1f24
 
 		f1.setSize(700,700);
@@ -123,24 +123,24 @@ public class CardLayoutMain extends Frame{
 			{
 				dispose();
 				System.exit(0);
-				
+
 			}
-		}); 
-		//¼¼°³ÀÇ ÆÇ³ÚÀÌ ÇÑ²¨¹ø¿¡ ´ÝÈ÷´Â °ÍÀÌ±â ¶§¹®¿¡ frameÀ» ´ÝÀ¸¶ó°í ¸í·É ÇØÁÖ¾î¾ß ÇÑ´Ù.
-		//´Ù¸¥ °æ¿ì´Â ÆÇ³ÚÀÎÁö FrameÀÎÁö Ç¥±âÇÏÁö ¾Ê¾Æµµ µÇÁö¸¸ ÀÌ°°Àº °æ¿ì¿¡´Â ¼¼°³ Áß ¹«¾ùÀ» ´Ý¾Æ¾ßÇÒ Áö ¸ð¸£¹Ç·Î Frame¿¡ ºÎ¿©ÇÑ´Ù.
-		//ÆÇ³ÚÀ» ´Ý´Â °ÍÀÌ ¾Æ´Ñ FrameÀ» ´Ý¾Æ¾ß ÇÑ´Ù´Â °Í¿¡ ÁÖÀÇ!!
-		//À§Ä¡°¡ Áß¿äÇÔ
+		});
+		//ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½Ç³ï¿½ï¿½ï¿½ ï¿½Ñ²ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½Ì±ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ frameï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½Ö¾ï¿½ï¿½ï¿½ ï¿½Ñ´ï¿½.
+		//ï¿½Ù¸ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½Ç³ï¿½ï¿½ï¿½ï¿½ï¿½ Frameï¿½ï¿½ï¿½ï¿½ Ç¥ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½Ê¾Æµï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½Ì°ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ì¿¡ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½Ý¾Æ¾ï¿½ï¿½ï¿½ ï¿½ï¿½ ï¿½ð¸£¹Ç·ï¿½ Frameï¿½ï¿½ ï¿½Î¿ï¿½ï¿½Ñ´ï¿½.
+		//ï¿½Ç³ï¿½ï¿½ï¿½ ï¿½Ý´ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½Æ´ï¿½ Frameï¿½ï¿½ ï¿½Ý¾Æ¾ï¿½ ï¿½Ñ´Ù´ï¿½ ï¿½Í¿ï¿½ ï¿½ï¿½ï¿½ï¿½!!
+		//ï¿½ï¿½Ä¡ï¿½ï¿½ ï¿½ß¿ï¿½ï¿½ï¿½
 
-		//ÀÏ´Ü ¿©±â¼­ run ÇØº¸ÀÚ´Â ~~~~~~~
+		//ï¿½Ï´ï¿½ ï¿½ï¿½ï¿½â¼­ run ï¿½Øºï¿½ï¿½Ú´ï¿½ ~~~~~~~
 
-		
 
-		class Selpan extends MouseAdapter{ 
 
-			//ÀÌº¥Æ® Ã³¸®ÇÔ¼ö //event handler 
+		class Selpan extends MouseAdapter{
 
-			
-			public void mouseClicked(MouseEvent e1) { //mouse event 
+			//ï¿½Ìºï¿½Æ® Ã³ï¿½ï¿½ï¿½Ô¼ï¿½ //event handler
+
+
+			public void mouseClicked(MouseEvent e1) { //mouse event
 
 				if(e1.getModifiers()==e1.BUTTON3_MASK)  //1:left  2:middle
 
@@ -152,7 +152,7 @@ public class CardLayoutMain extends Frame{
 					clo1.next(f1);
 
 			}
-			
+
 
 		}
 <<<<<<< HEAD
@@ -166,20 +166,20 @@ public class CardLayoutMain extends Frame{
 		// TODO Auto-generated method stub
 =======
 
-		pan1.addMouseListener(new Selpan()); //ÀÌº¥Æ®°¡´É 
+		pan1.addMouseListener(new Selpan()); //ï¿½Ìºï¿½Æ®ï¿½ï¿½ï¿½ï¿½
 
 		pan2.addMouseListener(new Selpan());
 
-		pan3.addMouseListener(new Selpan()); //´Ù½Ã ¿©±â¼­ runÇÑÈÄ ¸¶¿À, ¸¶¿Þ ´­·¯~~~
-		//ÀÌ°°Àº °æ¿ì ÆÇ¿¡ ¼¼°³¸¦ ³ÖÀº °ÍÀÌ´Ù.
-		//ÀÌ ´ÙÀ½¿¡ À©µµ¿ì¸¦ ´Ý´Â ¸Þ¼Òµå¸¦ ³Ö¾î¾ß ÇÑ´Ù.
-		//¼¼°³ÀÇ ÆÐ³ÎÀÌ ÇÑ²¨¹ø¿¡ ´ÝÈ÷´Â °ÍÀÌ±â ¶§¹®¿¡ frameÀ» ´ÝÀ¸¶ó°í ¸í·É ÇØÁÖ¾î¾ß ÇÑ´Ù.
-		
+		pan3.addMouseListener(new Selpan()); //ï¿½Ù½ï¿½ ï¿½ï¿½ï¿½â¼­ runï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½, ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½~~~
+		//ï¿½Ì°ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½Ç¿ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½Ì´ï¿½.
+		//ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ì¸¦ ï¿½Ý´ï¿½ ï¿½Þ¼Òµå¸¦ ï¿½Ö¾ï¿½ï¿½ï¿½ ï¿½Ñ´ï¿½.
+		//ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½Ð³ï¿½ï¿½ï¿½ ï¿½Ñ²ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½Ì±ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ frameï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½Ö¾ï¿½ï¿½ï¿½ ï¿½Ñ´ï¿½.
+
 	}
 
-	
 
-	public static void main(String args[]) 
+
+	public static void main(String args[])
 
 	{
 
@@ -188,9 +188,8 @@ public class CardLayoutMain extends Frame{
 
 		CardLayoutMain flc1=new CardLayoutMain();
 
-		
+
 
 	}
 
 }
-
