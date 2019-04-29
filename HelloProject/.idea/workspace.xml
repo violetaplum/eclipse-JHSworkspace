@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4d4e29d3-7305-4b25-bd4d-ae0080cf7a4c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/mabang/MabangMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mabang/MabangMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/rainNumber/RainTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rainNumber/RainTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/starSandClock/StarTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/starSandClock/StarTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/classes/" />
     <ignored path="$PROJECT_DIR$/bin/" />
@@ -23,8 +20,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/mabang/MabangMain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1208">
-              <caret line="45" column="33" selection-start-line="45" selection-start-column="33" selection-end-line="45" selection-end-column="33" />
+            <state relative-caret-position="3599">
+              <caret line="61" column="9" lean-forward="true" selection-start-line="61" selection-start-column="9" selection-end-line="61" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -93,12 +90,6 @@
               <item name="HelloProject" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="mabang" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HelloProject" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HelloProject" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="rainNumber" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -219,9 +210,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="30" width="3200" height="1770" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.17388494" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17388494" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -230,7 +220,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.95898837" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.36090225" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -311,8 +301,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/mabang/MabangMain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1208">
-          <caret line="45" column="33" selection-start-line="45" selection-start-column="33" selection-end-line="45" selection-end-column="33" />
+        <state relative-caret-position="3599">
+          <caret line="61" column="9" lean-forward="true" selection-start-line="61" selection-start-column="9" selection-end-line="61" selection-end-column="9" />
         </state>
       </provider>
     </entry>
