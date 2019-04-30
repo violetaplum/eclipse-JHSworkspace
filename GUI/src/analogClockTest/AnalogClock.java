@@ -1,13 +1,19 @@
 package analogClockTest;
 
 import frameTest.Frame;
-
 import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.awt.event.WindowAdapter;
 import java.awt.event.WindowEvent;
 import java.util.Date;
+//원주율 PI : 원의 둘레를 지름으로 나눈 값
+// 반지름이 1이면 반원의 둘레는 PI가 됨
+//즉,PI는 180도임
+//그러므로 Math.PI/180 = 1도의 값  
+
+//움직이는 각도가 중요하다
+//초침은 1초에 몇도가 가는가? -> 6도
 
 class ClockGUI2 extends Frame implements ActionListener
 {
