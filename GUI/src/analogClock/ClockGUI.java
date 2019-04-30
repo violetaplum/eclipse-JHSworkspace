@@ -96,8 +96,13 @@ class ClockGUI2 extends Frame implements ActionListener{
 		//Graphics.drawLine(시작X,시작Y,끝X,끝Y);
 		//Graphics,Graphics2D를 혼동하지 말자.
 		
-		minX = cX+(int)(140*Math.sin((boon*6+cho/2)*Math.PI/180));//분침길이는 초침보다 짧게하려 150으로
-		minY = cY-(int)(140*Math.cos((boon*6+cho/2)*Math.PI/180));
+		
+		//secX = cX+(int)((r1-10)*Math.cos(Math.PI/2-cho*(Math.PI/30)));
+		//secY = cY-(int)((r1-10)*Math.sin(Math.PI/2-cho*(Math.PI/30)));
+		//이 방식으로 하면 cos,sin이 뒤바뀌지 않아도 된다.
+		
+		minX = cX+(int)(140*Math.sin((boon*6+cho/10)*Math.PI/180));//분침길이는 초침보다 짧게하려 150으로
+		minY = cY-(int)(140*Math.cos((boon*6+cho/10)*Math.PI/180));
 		g.setColor(Color.cyan);
 		g.drawLine(cX, cY, minX, minY);
 		//boon*6은 각도 (1 -60분이므로)*6=360도까지
