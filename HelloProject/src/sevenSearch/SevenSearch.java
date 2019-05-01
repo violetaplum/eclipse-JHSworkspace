@@ -55,7 +55,7 @@ public class SevenSearch {
         System.out.println();
             while(true)
             {
-                mid=(l-s)/2;
+                mid=s+((l-s)/2);
 
                 if(l<s)
                 {
