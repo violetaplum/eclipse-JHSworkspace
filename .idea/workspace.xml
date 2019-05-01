@@ -14,28 +14,31 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/HelloProject/src/year/Year.java">
+        <entry file="file://$PROJECT_DIR$/HelloProject/src/sevenSearch/SevenSearch.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="78">
-              <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+            <state relative-caret-position="624">
+              <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/HelloProject/src/lotto/Lotto.java">
+        <entry file="file://$PROJECT_DIR$/HelloProject/src/bubbleSort/BubbleTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-728">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="182">
+              <caret line="7" column="21" lean-forward="true" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/HelloProject/src/queueTest/QueueMain.java">
+        <entry file="file://$PROJECT_DIR$/HelloProject/src/bubbleSort/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="331">
-              <caret line="27" column="44" selection-start-line="27" selection-start-column="44" selection-end-line="27" selection-end-column="44" />
+            <state relative-caret-position="468">
+              <caret line="18" column="9" lean-forward="true" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -62,11 +65,14 @@
         <option value="$PROJECT_DIR$/HelloProject/src/stringTokenizerTest/StringTokenizerMain.java" />
         <option value="$PROJECT_DIR$/HelloProject/src/scoreHashMapTest/ScoreMain.java" />
         <option value="$PROJECT_DIR$/HelloProject/src/queueTest/QueueMain.java" />
+        <option value="$PROJECT_DIR$/HelloProject/src/sevenSearch/SevenSearch.java" />
+        <option value="$PROJECT_DIR$/HelloProject/src/bubbleSort/Test.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="-7" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="444" />
+    <option name="y" value="-12" />
     <option name="width" value="699" />
     <option name="height" value="1057" />
   </component>
@@ -75,7 +81,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -99,70 +104,28 @@
               <item name="eclipse-JHSworkspace" type="462c0819:PsiDirectoryNode" />
               <item name="HelloProject" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="JDBCMain" type="462c0819:PsiDirectoryNode" />
+              <item name="bubbleSort" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="eclipse-JHSworkspace" type="b2602c69:ProjectViewProjectNode" />
               <item name="eclipse-JHSworkspace" type="462c0819:PsiDirectoryNode" />
               <item name="HelloProject" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="lotto" type="462c0819:PsiDirectoryNode" />
+              <item name="sevenSearch" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="eclipse-JHSworkspace" type="b2602c69:ProjectViewProjectNode" />
               <item name="eclipse-JHSworkspace" type="462c0819:PsiDirectoryNode" />
               <item name="HelloProject" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="mabang" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="eclipse-JHSworkspace" type="b2602c69:ProjectViewProjectNode" />
-              <item name="eclipse-JHSworkspace" type="462c0819:PsiDirectoryNode" />
-              <item name="HelloProject" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="queueTest" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="eclipse-JHSworkspace" type="b2602c69:ProjectViewProjectNode" />
-              <item name="eclipse-JHSworkspace" type="462c0819:PsiDirectoryNode" />
-              <item name="HelloProject" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="scoreHashMapTest" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="eclipse-JHSworkspace" type="b2602c69:ProjectViewProjectNode" />
-              <item name="eclipse-JHSworkspace" type="462c0819:PsiDirectoryNode" />
-              <item name="HelloProject" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="scoreHashMapTest" type="462c0819:PsiDirectoryNode" />
-              <item name="ScoreMain.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="eclipse-JHSworkspace" type="b2602c69:ProjectViewProjectNode" />
-              <item name="eclipse-JHSworkspace" type="462c0819:PsiDirectoryNode" />
-              <item name="HelloProject" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="stringTokenizerTest" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="eclipse-JHSworkspace" type="b2602c69:ProjectViewProjectNode" />
-              <item name="eclipse-JHSworkspace" type="462c0819:PsiDirectoryNode" />
-              <item name="HelloProject" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test_codes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="eclipse-JHSworkspace" type="b2602c69:ProjectViewProjectNode" />
-              <item name="eclipse-JHSworkspace" type="462c0819:PsiDirectoryNode" />
-              <item name="HelloProject" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="year" type="462c0819:PsiDirectoryNode" />
+              <item name="sortTest" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -184,20 +147,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.QueueMain">
-    <configuration name="ClockGUI2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="analogClock.ClockGUI2" />
-      <module name="eclipse-JHSworkspace" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="analogClock.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Test">
     <configuration name="QueueMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="queueTest.QueueMain" />
       <module name="eclipse-JHSworkspace" />
@@ -211,12 +161,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SearchMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="searchTest.SearchMain" />
+    <configuration name="SevenSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sevenSearch.SevenSearch" />
       <module name="eclipse-JHSworkspace" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="searchTest.*" />
+          <option name="PATTERN" value="sevenSearch.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -250,13 +200,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bubbleSort.Test" />
+      <module name="eclipse-JHSworkspace" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bubbleSort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.SevenSearch" />
         <item itemvalue="Application.QueueMain" />
         <item itemvalue="Application.StringTokenizerMain" />
         <item itemvalue="Application.SocketTest1" />
-        <item itemvalue="Application.ClockGUI2" />
-        <item itemvalue="Application.SearchMain" />
       </list>
     </recent_temporary>
   </component>
@@ -274,10 +237,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1066" extended-state="7" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16791044" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.120469086" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -287,7 +249,7 @@
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.4348786" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.49779248" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -295,7 +257,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.3289183" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32887402" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -431,24 +393,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HelloProject/src/test_codes/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="52">
-          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/HelloProject/src/test_codes/Test.java" />
     <entry file="file://$PROJECT_DIR$/HelloProject/src/JDBCMain/JDBCMain.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="312">
           <caret line="13" column="47" lean-forward="true" selection-start-line="13" selection-start-column="47" selection-end-line="13" selection-end-column="96" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HelloProject/src/year/Year.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="78">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -466,13 +415,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HelloProject/src/lotto/Lotto.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-728">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/HelloProject/src/stringTokenizerTest/StringTokenizerMain.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="520">
@@ -487,10 +429,55 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/HelloProject/src/year/Year.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HelloProject/src/lotto/Lotto.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/HelloProject/src/queueTest/QueueMain.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="331">
           <caret line="27" column="44" selection-start-line="27" selection-start-column="44" selection-end-line="27" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HelloProject/src/sortTest/SortTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HelloProject/src/sevenSearch/SevenSearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="624">
+          <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HelloProject/src/bubbleSort/BubbleTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="7" column="21" lean-forward="true" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HelloProject/src/bubbleSort/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="18" column="9" lean-forward="true" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
         </state>
       </provider>
     </entry>
