@@ -7,6 +7,13 @@ public class StringTokenizerMain {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 			StringTokenizer st1 = new StringTokenizer("바보 온달 공주");
+			StringTokenizer ss = new StringTokenizer("ss aa");
+			while(ss.hasMoreTokens())
+			{
+				System.out.println(ss.nextToken());
+				System.out.println(ss.countTokens());
+
+			}
 			//기본적으로 " "으로 토큰화된다.
 			while(st1.hasMoreTokens())
 			{
