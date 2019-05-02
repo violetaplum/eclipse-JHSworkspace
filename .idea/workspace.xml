@@ -13,26 +13,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/HelloProject/src/sevenSearch/SevenSearch.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="598">
-              <caret line="62" column="26" lean-forward="true" selection-start-line="62" selection-start-column="26" selection-end-line="62" selection-end-column="26" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/HelloProject/src/sevenSearch/SevenSearchMain.java">
+        <entry file="file://$PROJECT_DIR$/GUI/src/clockTest/ClockMain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="453">
-              <caret line="34" column="21" lean-forward="true" selection-start-line="34" selection-start-column="21" selection-end-line="34" selection-end-column="21" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="104">
+              <caret line="17" column="23" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -65,10 +50,9 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="444" />
-    <option name="y" value="-12" />
-    <option name="width" value="699" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="684" />
+    <option name="width" value="1243" />
     <option name="height" value="1057" />
   </component>
   <component name="ProjectView">
@@ -76,12 +60,38 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="eclipse-JHSworkspace" type="b2602c69:ProjectViewProjectNode" />
               <item name="eclipse-JHSworkspace" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eclipse-JHSworkspace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eclipse-JHSworkspace" type="462c0819:PsiDirectoryNode" />
+              <item name="GUI" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eclipse-JHSworkspace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eclipse-JHSworkspace" type="462c0819:PsiDirectoryNode" />
+              <item name="GUI" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eclipse-JHSworkspace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eclipse-JHSworkspace" type="462c0819:PsiDirectoryNode" />
+              <item name="GUI" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="clockTest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eclipse-JHSworkspace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eclipse-JHSworkspace" type="462c0819:PsiDirectoryNode" />
+              <item name="GUI" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="flow" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="eclipse-JHSworkspace" type="b2602c69:ProjectViewProjectNode" />
@@ -106,20 +116,12 @@
               <item name="eclipse-JHSworkspace" type="462c0819:PsiDirectoryNode" />
               <item name="HelloProject" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="sevenSearch" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="eclipse-JHSworkspace" type="b2602c69:ProjectViewProjectNode" />
-              <item name="eclipse-JHSworkspace" type="462c0819:PsiDirectoryNode" />
-              <item name="HelloProject" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="sortTest" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -232,10 +234,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <frame x="684" y="0" width="1243" height="1057" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.120469086" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.17582418" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -469,8 +471,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/HelloProject/src/sevenSearch/SevenSearch.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="598">
-          <caret line="62" column="26" lean-forward="true" selection-start-line="62" selection-start-column="26" selection-end-line="62" selection-end-column="26" />
+        <state relative-caret-position="1560">
+          <caret line="62" column="26" selection-start-line="62" selection-start-column="26" selection-end-line="62" selection-end-column="26" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -480,10 +482,17 @@
     <entry file="file://$PROJECT_DIR$/HelloProject/src/sevenSearch/SevenSearchMain.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="453">
-          <caret line="34" column="21" lean-forward="true" selection-start-line="34" selection-start-column="21" selection-end-line="34" selection-end-column="21" />
+          <caret line="34" column="21" selection-start-line="34" selection-start-column="21" selection-end-line="34" selection-end-column="21" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GUI/src/clockTest/ClockMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="17" column="23" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
         </state>
       </provider>
     </entry>
