@@ -1,7 +1,220 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b02a0a42-bc47-4120-bafa-4695102e0933" name="Default Changelist" comment="" />
+    <list default="true" id="b02a0a42-bc47-4120-bafa-4695102e0933" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/GUI/src/GuiTest/MyFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GUI/src/contentPaneEx/ContentPaneEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GUI/src/flowLayoutEx/FlowLayoutEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GUI/src/gridLayoutEx/GridLayoutEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GUI/src/indepClassListener/IndepClassListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GUI/src/innerClassListener/InnerClassListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GUI/src/nullContainerEx/NullContainerEx.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/eclipse-JHSworkspace.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/eclipse-JHSworkspace.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI/src/clockTest/ClockMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/GUI/src/clockTest/ClockMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI/src/combo/Combo.java" beforeDir="false" afterPath="$PROJECT_DIR$/GUI/src/combo/Combo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUI/src/loginTest/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/GUI/src/loginTest/Login.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/BinarySearch/BinarySearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/BinarySearch/BinarySearch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/Coffee/Arabica.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/Coffee/Arabica.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/Coffee/Coffee.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/Coffee/Coffee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/Coffee/CoffeeBeans.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/Coffee/CoffeeBeans.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/Coffee/Robusta.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/Coffee/Robusta.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/GUItest/BMIGUI2$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/GUItest/BMIGUI2$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/GUItest/BMIGUI2.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/GUItest/BMIGUI2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/GUItest/GuiMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/GUItest/GuiMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/HelloClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/HelloClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/InheritanceTest2/CastTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/InheritanceTest2/CastTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/InheritanceTest2/Child.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/InheritanceTest2/Child.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/InheritanceTest2/Parent.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/InheritanceTest2/Parent.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/JDBCMain/JDBCMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/JDBCMain/JDBCMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/JDBCMain/JDBCMain2.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/JDBCMain/JDBCMain2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/JDBCMain/JDBCMain3.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/JDBCMain/JDBCMain3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/JDBCMain/JDBCMain4.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/JDBCMain/JDBCMain4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/JDBCMain/JDBCTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/JDBCMain/JDBCTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/abstractTest/Apple.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/abstractTest/Apple.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/abstractTest/Kwail.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/abstractTest/Kwail.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/abstractTest/KwailMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/abstractTest/KwailMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/abstractTest/Pear.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/abstractTest/Pear.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/abstractTest/Persimmon.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/abstractTest/Persimmon.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/albaman/Albaman.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/albaman/Albaman.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/albaman/AlbamanMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/albaman/AlbamanMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/albaman/Na.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/albaman/Na.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/albaman/Quickman.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/albaman/Quickman.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/amazonGo/AmazonGoMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/amazonGo/AmazonGoMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/amazonGo/Mart.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/amazonGo/Mart.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/amazonGo/Mart1.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/amazonGo/Mart1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/amazonGo/Mart2.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/amazonGo/Mart2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/arrayEx/ArrayEx.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/arrayEx/ArrayEx.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/arrayEx/ArrayTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/arrayEx/ArrayTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/arrayEx/ArrayTwoDimention.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/arrayEx/ArrayTwoDimention.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/baeSou/BaeClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/baeSou/BaeClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/baeSou/BaeMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/baeSou/BaeMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/bakeryCopy1/BBang.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/bakeryCopy1/BBang.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/bakeryCopy1/Bakery.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/bakeryCopy1/Bakery.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/bankTest/Bank.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/bankTest/Bank.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/bankTest/BankAccount.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/bankTest/BankAccount.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/bmi/BMI.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/bmi/BMI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/bubbleSort/BubbleTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/bubbleSort/BubbleTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/bubbleSort/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/bubbleSort/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/calendarTest/BirthdayMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/calendarTest/BirthdayMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/calendarTest/CalendarMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/calendarTest/CalendarMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/calendarTest/CountMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/calendarTest/CountMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/car/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/car/Car.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/car/MyCar.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/car/MyCar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/carGame/CarGame.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/carGame/CarGame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/carGame/Child.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/carGame/Child.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/carGame/Parent.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/carGame/Parent.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/charAtTest/CharAtMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/charAtTest/CharAtMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/charAtTest/Find.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/charAtTest/Find.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/charToString/CharToString.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/charToString/CharToString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/chattingTest/ThreadSyncClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/chattingTest/ThreadSyncClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/chattingTest/ThreadSyncMainClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/chattingTest/ThreadSyncMainClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/childParent/CarBaseSuper.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/childParent/CarBaseSuper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/childParent/Child7.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/childParent/Child7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/childParent/Parent7.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/childParent/Parent7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/collectionTest/CollectionMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/collectionTest/CollectionMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/collectionTest/CollectionTest2.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/collectionTest/CollectionTest2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/dateTest/DateMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/dateTest/DateMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/dogV1SorterMainV1/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/dogV1SorterMainV1/Dog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/dogV1SorterMainV1/DogV1SorterMainV1.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/dogV1SorterMainV1/DogV1SorterMainV1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/duhe/Duhe.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/duhe/Duhe.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/echoTest/EchoClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/echoTest/EchoClient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/echoTest/EchoServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/echoTest/EchoServer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/endsWithTest/EndsWithMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/endsWithTest/EndsWithMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/enumerationTest/EnumerationMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/enumerationTest/EnumerationMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/fileScoreTest/FileScoreTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/fileScoreTest/FileScoreTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/fileTest/File2Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/fileTest/File2Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/fileTest/File3Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/fileTest/File3Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/fileTest/FileMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/fileTest/FileMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/fileTest/SwapFileMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/fileTest/SwapFileMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/fileTest/SwapFileMain2.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/fileTest/SwapFileMain2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/for_switch/Switch.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/for_switch/Switch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/genericTest/ArrayListMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/genericTest/ArrayListMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/genericTest/Market.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/genericTest/Market.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/genericTest/MarketMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/genericTest/MarketMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/hangMan/HangMan.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/hangMan/HangMan.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/hasMapTest/HasMapMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/hasMapTest/HasMapMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/hashMapTest/HashmapMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/hashMapTest/HashmapMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/indexOfTest/Find.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/indexOfTest/Find.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/indexOfTest/Find2.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/indexOfTest/Find2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/indexOfTest/FindMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/indexOfTest/FindMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/indexOfTest/FindMain2.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/indexOfTest/FindMain2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/indexOfTest/IndexOfMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/indexOfTest/IndexOfMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/inheritanceTest/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/inheritanceTest/Animal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/inheritanceTest/Bird.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/inheritanceTest/Bird.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/inheritanceTest/Boomo.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/inheritanceTest/Boomo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/inheritanceTest/Fish.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/inheritanceTest/Fish.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/inheritanceTest/InheritanceTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/inheritanceTest/InheritanceTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/inheritanceTest/Janyu.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/inheritanceTest/Janyu.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/inheritanceTest/World.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/inheritanceTest/World.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/interfaceClass/Booja.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/interfaceClass/Booja.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/interfaceClass/InterfaceClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/interfaceClass/InterfaceClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/interfaceClass/Joboomo.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/interfaceClass/Joboomo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/interfaceClass/Na.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/interfaceClass/Na.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/interfaceClass/Samchon.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/interfaceClass/Samchon.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/interfaceClass/You.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/interfaceClass/You.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/lotto/Lotto.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/lotto/Lotto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/mabang/MabangMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/mabang/MabangMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/mabang/MabangTeacher.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/mabang/MabangTeacher.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/marketReview/Market.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/marketReview/Market.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/marketReview/MarketMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/marketReview/MarketMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/menu/Menu.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/menu/Menu.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/methodTest/MethodTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/methodTest/MethodTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/methodTest2/Joonbi.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/methodTest2/Joonbi.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/methodTest2/MethodeTest2.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/methodTest2/MethodeTest2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/methodTest3/MethodTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/methodTest3/MethodTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/month/Month.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/month/Month.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/objectTest/BBang.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/objectTest/BBang.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/objectTest/Bakery.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/objectTest/Bakery.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/ondalTest/OndalTestMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/ondalTest/OndalTestMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/ondalTest/OndalTestMain2.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/ondalTest/OndalTestMain2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/oracleTest/OracleTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/oracleTest/OracleTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/overLoad/OverLoad.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/overLoad/OverLoad.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/productMain/Product.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/productMain/Product.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/productMain/ProductMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/productMain/ProductMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/queueTest/QueueMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/queueTest/QueueMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/rainNumber/RainNumberMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/rainNumber/RainNumberMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/rainNumber/RainTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/rainNumber/RainTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/rectangleMain/Circle.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/rectangleMain/Circle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/rectangleMain/Rectangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/rectangleMain/Rectangle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/rectangleMain/RectangleMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/rectangleMain/RectangleMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/rectangleMain/Shape.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/rectangleMain/Shape.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/repeat/Repeat.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/repeat/Repeat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/runnableTest/RunnableClass1.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/runnableTest/RunnableClass1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/runnableTest/RunnableClass2.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/runnableTest/RunnableClass2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/runnableTest/RunnableClass3.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/runnableTest/RunnableClass3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/runnableTest/RunnableClass4.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/runnableTest/RunnableClass4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/runnableTest/RunnableClass5.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/runnableTest/RunnableClass5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/runnableTest/RunnableMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/runnableTest/RunnableMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/runnableTest/RunnableMain2.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/runnableTest/RunnableMain2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/runnableTest/RunnableMain3.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/runnableTest/RunnableMain3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/runnableTest/RunnableMain4.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/runnableTest/RunnableMain4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/sawon/Sawon.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/sawon/Sawon.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/sawon/SawonMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/sawon/SawonMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/score/Score.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/score/Score.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/scoreHashMapTest/Score.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/scoreHashMapTest/Score.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/scoreHashMapTest/ScoreMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/scoreHashMapTest/ScoreMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/sequenceSearch/SequenceSearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/sequenceSearch/SequenceSearch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/sequenceSearch/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/sequenceSearch/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/sevenSearch/SevenSearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/sevenSearch/SevenSearch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/sevenSearch/SevenSearchMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/sevenSearch/SevenSearchMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/shapeTest/Circle.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/shapeTest/Circle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/shapeTest/Rectangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/shapeTest/Rectangle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/shapeTest/Shape.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/shapeTest/Shape.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/shapeTest/ShapeMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/shapeTest/ShapeMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/slimeMain/SlimeMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/slimeMain/SlimeMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/socketTest/ChatThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/socketTest/ChatThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/socketTest/SocketMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/socketTest/SocketMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/socketTest/SocketMain2.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/socketTest/SocketMain2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/socketTest/SocketMain3.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/socketTest/SocketMain3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/socketTest/SocketMain4.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/socketTest/SocketMain4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/socketTest/SocketMain5.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/socketTest/SocketMain5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/socketTest/SocketTest1.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/socketTest/SocketTest1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/socketTest/SocketTest2.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/socketTest/SocketTest2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/sortTest/SortTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/sortTest/SortTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/splitTest/SplitMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/splitTest/SplitMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/src/stackTest/StackMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/src/stackTest/StackMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/src/test_codes/SandCockTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/src/test_codes/SandCockTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/starSandClock/StarSandClockMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/starSandClock/StarSandClockMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/starSandClock/StarTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/starSandClock/StarTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/stringBuffer/SentenceBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/stringBuffer/SentenceBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/stringBuffer/StringBufferMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/stringBuffer/StringBufferMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/stringTestt/StringTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/stringTestt/StringTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/stringTokenizerTest/StringTokenizerMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/stringTokenizerTest/StringTokenizerMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/subString1/SubString1.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/subString1/SubString1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/subString1/SubString2.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/subString1/SubString2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/subString3/TestMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/subString3/TestMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/swap/SwapTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/swap/SwapTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/tcpServerImage/TcpClientIMG.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/tcpServerImage/TcpClientIMG.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/tcpServerImage/TcpServerIMG.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/tcpServerImage/TcpServerIMG.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/telinfoDAO/TelInfoDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/telinfoDAO/TelInfoDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/telinfoDBConn/TelInfoDBConn.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/telinfoDBConn/TelInfoDBConn.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/telinfoPrintMain/TelInfoMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/telinfoPrintMain/TelInfoMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/telinfoVO/TelInfoVO.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/telinfoVO/TelInfoVO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/threadTest/ThreadClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/threadTest/ThreadClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/threadTest/ThreadClass2.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/threadTest/ThreadClass2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/threadTest/ThreadClass3.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/threadTest/ThreadClass3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/threadTest/ThreadClass4.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/threadTest/ThreadClass4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/threadTest/ThreadClass5.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/threadTest/ThreadClass5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/threadTest/ThreadClass6.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/threadTest/ThreadClass6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/threadTest/ThreadMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/threadTest/ThreadMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/threadTest/ThreadMain2.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/threadTest/ThreadMain2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/threadTest/ThreadMain3.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/threadTest/ThreadMain3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/threadTest/ThreadMain4.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/threadTest/ThreadMain4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/threadTest2/ThreadClass1.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/threadTest2/ThreadClass1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/threadTest2/ThreadClass2.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/threadTest2/ThreadClass2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/threadTest2/ThreadMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/threadTest2/ThreadMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/threeThreadtest/ThreeThreadClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/threeThreadtest/ThreeThreadClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/threeThreadtest/ThreeThreadMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/threeThreadtest/ThreeThreadMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/throwTest/ThrowTestMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/throwTest/ThrowTestMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/throwTest2/ThrowTestMain2.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/throwTest2/ThrowTestMain2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/totalScore/TotalScore.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/totalScore/TotalScore.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/tryCatch/TryCatchMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/tryCatch/TryCatchMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/tryCatch/TryCatchMain2.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/tryCatch/TryCatchMain2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/year/Year.class" beforeDir="false" afterPath="$PROJECT_DIR$/HelloProject/out/production/eclipse-JHSworkspace/year/Year.class" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,10 +227,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/GUI/src/clockTest/ClockMain.java">
+        <entry file="file://$PROJECT_DIR$/GUI/src/search2/Search.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="104">
-              <caret line="17" column="23" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
+            <state relative-caret-position="-1947">
+              <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -30,6 +243,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -47,20 +263,31 @@
         <option value="$PROJECT_DIR$/HelloProject/src/bubbleSort/Test.java" />
         <option value="$PROJECT_DIR$/HelloProject/src/sevenSearch/SevenSearch.java" />
         <option value="$PROJECT_DIR$/HelloProject/src/sevenSearch/SevenSearchMain.java" />
+        <option value="$PROJECT_DIR$/GUI/src/clockTest/ClockMain.java" />
+        <option value="$PROJECT_DIR$/GUI/src/loginTest/Login.java" />
+        <option value="$PROJECT_DIR$/GUI/src/GuiTest/MyFrame.java" />
+        <option value="$PROJECT_DIR$/GUI/src/contentPaneEx/ContentPaneEx.java" />
+        <option value="$PROJECT_DIR$/GUI/src/flowLayoutEx/FlowLayoutEx.java" />
+        <option value="$PROJECT_DIR$/GUI/src/combo/Combo.java" />
+        <option value="$PROJECT_DIR$/GUI/src/gridLayoutEx/GridLayoutEx.java" />
+        <option value="$PROJECT_DIR$/GUI/src/nullContainerEx/NullContainerEx.java" />
+        <option value="$PROJECT_DIR$/GUI/src/indepClassListener/IndepClassListener.java" />
+        <option value="$PROJECT_DIR$/GUI/src/innerClassListener/InnerClassListener.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="684" />
-    <option name="width" value="1243" />
-    <option name="height" value="1057" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="660" />
+    <option name="y" value="30" />
+    <option name="width" value="1590" />
+    <option name="height" value="1333" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -84,53 +311,59 @@
               <item name="eclipse-JHSworkspace" type="462c0819:PsiDirectoryNode" />
               <item name="GUI" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="clockTest" type="462c0819:PsiDirectoryNode" />
+              <item name="combo" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="eclipse-JHSworkspace" type="b2602c69:ProjectViewProjectNode" />
               <item name="eclipse-JHSworkspace" type="462c0819:PsiDirectoryNode" />
               <item name="GUI" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="flow" type="462c0819:PsiDirectoryNode" />
+              <item name="GuiThread" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="eclipse-JHSworkspace" type="b2602c69:ProjectViewProjectNode" />
               <item name="eclipse-JHSworkspace" type="462c0819:PsiDirectoryNode" />
-              <item name="HelloProject" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="eclipse-JHSworkspace" type="b2602c69:ProjectViewProjectNode" />
-              <item name="eclipse-JHSworkspace" type="462c0819:PsiDirectoryNode" />
-              <item name="HelloProject" type="462c0819:PsiDirectoryNode" />
+              <item name="GUI" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="randomGUI" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="eclipse-JHSworkspace" type="b2602c69:ProjectViewProjectNode" />
               <item name="eclipse-JHSworkspace" type="462c0819:PsiDirectoryNode" />
-              <item name="HelloProject" type="462c0819:PsiDirectoryNode" />
+              <item name="GUI" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="bubbleSort" type="462c0819:PsiDirectoryNode" />
+              <item name="randomGUI" type="462c0819:PsiDirectoryNode" />
+              <item name="LRandom_7_GUI.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
             <path>
               <item name="eclipse-JHSworkspace" type="b2602c69:ProjectViewProjectNode" />
               <item name="eclipse-JHSworkspace" type="462c0819:PsiDirectoryNode" />
-              <item name="HelloProject" type="462c0819:PsiDirectoryNode" />
+              <item name="GUI" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="sortTest" type="462c0819:PsiDirectoryNode" />
+              <item name="search2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="eclipse-JHSworkspace" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eclipse-JHSworkspace" type="462c0819:PsiDirectoryNode" />
+              <item name="GUI" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="search2" type="462c0819:PsiDirectoryNode" />
+              <item name="Search.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Downloads/aplujar5" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/aplu5.jar!/" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="MTConfigurable" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -144,13 +377,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SevenSearch">
-    <configuration name="QueueMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="queueTest.QueueMain" />
+  <component name="RunManager" selected="Application.InnerClassListener">
+    <configuration name="Combo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="combo.Combo" />
       <module name="eclipse-JHSworkspace" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="queueTest.*" />
+          <option name="PATTERN" value="combo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -158,12 +391,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SevenSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sevenSearch.SevenSearch" />
+    <configuration name="GridLayoutEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gridLayoutEx.GridLayoutEx" />
       <module name="eclipse-JHSworkspace" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sevenSearch.*" />
+          <option name="PATTERN" value="gridLayoutEx.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -171,12 +404,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SocketTest1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="socketTest.SocketTest1" />
+    <configuration name="IndepClassListener" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="indepClassListener.IndepClassListener" />
       <module name="eclipse-JHSworkspace" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="socketTest.*" />
+          <option name="PATTERN" value="indepClassListener.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -184,12 +417,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringTokenizerMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stringTokenizerTest.StringTokenizerMain" />
+    <configuration name="InnerClassListener" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="innerClassListener.InnerClassListener" />
       <module name="eclipse-JHSworkspace" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="stringTokenizerTest.*" />
+          <option name="PATTERN" value="innerClassListener.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -197,12 +430,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bubbleSort.Test" />
+    <configuration name="NullContainerEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nullContainerEx.NullContainerEx" />
       <module name="eclipse-JHSworkspace" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="bubbleSort.*" />
+          <option name="PATTERN" value="nullContainerEx.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -212,11 +445,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SevenSearch" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.QueueMain" />
-        <item itemvalue="Application.StringTokenizerMain" />
-        <item itemvalue="Application.SocketTest1" />
+        <item itemvalue="Application.InnerClassListener" />
+        <item itemvalue="Application.IndepClassListener" />
+        <item itemvalue="Application.NullContainerEx" />
+        <item itemvalue="Application.GridLayoutEx" />
+        <item itemvalue="Application.Combo" />
       </list>
     </recent_temporary>
   </component>
@@ -234,10 +467,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="684" y="0" width="1243" height="1057" extended-state="0" />
+    <frame x="0" y="30" width="3200" height="1770" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.17582418" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18358113" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -247,7 +480,7 @@
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.49779248" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.49756774" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -255,7 +488,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32887402" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32870048" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -289,31 +522,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HelloProject/src/hashMapTest/HashmapMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="52">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GUI/src/search2/Search.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1014">
-          <caret line="113" column="13" selection-start-line="113" selection-start-column="13" selection-end-line="113" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/GUI/src/searchTest/SearchMain.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="312">
           <caret line="29" column="22" selection-start-line="29" selection-start-column="22" selection-end-line="29" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GUI/src/analogClock/ClockGUI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="453">
-          <caret line="133" column="37" selection-start-line="133" selection-start-column="37" selection-end-line="133" selection-end-column="37" />
         </state>
       </provider>
     </entry>
@@ -489,10 +701,164 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/HelloProject/src/hashMapTest/HashmapMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/GUI/src/clockTest/ClockMain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="17" column="23" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
+        <state relative-caret-position="195">
+          <caret line="117" column="35" selection-start-line="117" selection-start-column="35" selection-end-line="117" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GUI/src/analogClock/ClockGUI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="313">
+          <caret line="31" column="8" lean-forward="true" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GUI/src/frameTest/Frame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GUI/src/alpha/AlphaMainClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="826">
+          <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="24" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GUI/src/GuiTest/MyFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="9" column="94" selection-start-line="9" selection-start-column="94" selection-end-line="9" selection-end-column="94" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#571#572#0" expanded="true" />
+            <element signature="e#616#617#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GUI/src/contentPaneEx/ContentPaneEx.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1534">
+          <caret line="26" column="20" lean-forward="true" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#114#115#0" expanded="true" />
+            <element signature="e#148#149#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GUI/src/flowLayoutEx/FlowLayoutEx.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="649">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#113#114#0" expanded="true" />
+            <element signature="e#146#147#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GUI/src/GuiThread/GuiThreadTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GUI/src/combo/Combo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1829">
+          <caret line="34" column="51" lean-forward="true" selection-start-line="34" selection-start-column="51" selection-end-line="34" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GUI/src/loginTest/Login.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5369">
+          <caret line="100" column="41" selection-start-line="100" selection-start-column="41" selection-end-line="100" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GUI/src/gridLayoutEx/GridLayoutEx.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="889">
+          <caret line="24" column="64" selection-start-line="24" selection-start-column="64" selection-end-line="24" selection-end-column="64" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#98#99#0" expanded="true" />
+            <element signature="e#131#132#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GUI/src/nullContainerEx/NullContainerEx.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1121">
+          <caret line="28" column="25" lean-forward="true" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#104#105#0" expanded="true" />
+            <element signature="e#136#137#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GUI/src/randomGUI/LRandom_7_GUI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3658">
+          <caret line="13" column="6" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-10-oracle/lib/src.zip!/java.desktop/java/awt/event/ActionListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1593">
+          <caret line="50" column="16" selection-start-line="50" selection-start-column="16" selection-end-line="50" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GUI/src/innerClassListener/InnerClassListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2242">
+          <caret line="38" column="5" lean-forward="true" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#166#167#0" expanded="true" />
+            <element signature="e#205#206#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GUI/src/indepClassListener/IndepClassListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1593">
+          <caret line="27" column="25" selection-start-line="27" selection-start-column="25" selection-end-line="27" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#754#755#0" expanded="true" />
+            <element signature="e#794#795#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GUI/src/search2/Search.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1947">
+          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
         </state>
       </provider>
     </entry>
@@ -551,7 +917,6 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
@@ -559,7 +924,7 @@
       </state>
       <state key="ProjectJDKs.UI">
         <settings>
-          <last-edited>1.8</last-edited>
+          <last-edited>10</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

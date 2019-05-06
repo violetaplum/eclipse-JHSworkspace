@@ -32,7 +32,7 @@ class ClockClass extends Frame implements ActionListener
 		b1.setSize(100,70);
 		b1.setForeground(new Color(0,0,255));//blue
 		b1.setBackground(new Color(255,180,200)); //R,G,B ÀÇ »ö»óÁ¤µµ
-		b1.setFont(new Font("µ¸¿ò",Font.BOLD,20));
+		b1.setFont(new Font("Fira Code",Font.BOLD,20));
 		b1.setLocation(170,250);
 		this.add(b1);
 		b1.addActionListener(this);
@@ -40,42 +40,42 @@ class ClockClass extends Frame implements ActionListener
 		tf1.setSize(50,50);
 		tf1.setForeground(new Color(0,0,255));
 		tf1.setBackground(new Color(255,255,0));
-		tf1.setFont(new Font("µ¸¿ò",Font.BOLD,35));
+		tf1.setFont(new Font("Fira Code",Font.BOLD,35));
 		tf1.setLocation(30,70);
 		this.add(tf1);
 		
 		tf2.setSize(50,50);
 		tf2.setForeground(new Color(0,0,255));
 		tf2.setBackground(new Color(255,255,0));
-		tf2.setFont(new Font("µ¸¿ò",Font.BOLD,35));
+		tf2.setFont(new Font("Fira Code",Font.BOLD,35));
 		tf2.setLocation(100,70);
 		this.add(tf2);
 		
 		tf3.setSize(50,50);
 		tf3.setForeground(new Color(0,0,255));
 		tf3.setBackground(new Color(255,255,0));
-		tf3.setFont(new Font("µ¸¿ò",Font.BOLD,35));
+		tf3.setFont(new Font("Fira Code",Font.BOLD,35));
 		tf3.setLocation(170,70);
 		this.add(tf3);
 		
 		tf4.setSize(50,50);
 		tf4.setForeground(new Color(0,0,255));
 		tf4.setBackground(new Color(255,255,0));
-		tf4.setFont(new Font("µ¸¿ò",Font.BOLD,35));
+		tf4.setFont(new Font("Fira Code",Font.BOLD,35));
 		tf4.setLocation(240,70);
 		this.add(tf4);
 		
 		tf5.setSize(50,50);
 		tf5.setForeground(new Color(0,0,255));
 		tf5.setBackground(new Color(255,255,0));
-		tf5.setFont(new Font("µ¸¿ò",Font.BOLD,35));
+		tf5.setFont(new Font("Fira Code",Font.BOLD,35));
 		tf5.setLocation(310,70);
 		this.add(tf5);
 		
 		tf6.setSize(50,50);
 		tf6.setForeground(new Color(0,0,255));
 		tf6.setBackground(new Color(255,255,0));
-		tf6.setFont(new Font("µ¸¿ò",Font.BOLD,35));
+		tf6.setFont(new Font("Fira Code",Font.BOLD,35));
 		tf6.setLocation(380,70);
 		this.add(tf6);
 		
@@ -113,9 +113,9 @@ class ClockClass extends Frame implements ActionListener
 					}
 				},0,1000); //½Ã°£ÀÌ ¸Â¾Æ¾ßÇÏ¹Ç·Î 1ÃÊ°£ Àá±ñ ±â´Ù¸°´Ù.
 				b1.setEnabled(false);
-				tf2.setText("½Ã");
-				tf4.setText("ºÐ");
-				tf6.setText("ÃÊ");	
+				tf2.setText("time");
+				tf4.setText("minute");
+				tf6.setText("second");
 			}
 		}
 }

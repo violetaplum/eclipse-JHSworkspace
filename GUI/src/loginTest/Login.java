@@ -22,7 +22,7 @@ class Kaja1 extends Frame {
 	public Kaja1() {
 		this.setLayout(null);///////////////////
 
-		label1 = new Label("성명");
+		label1 = new Label("Name");
 		label1.setSize(30, 20);
 		label1.setLocation(50, 50);
 		this.add(label1);
@@ -32,7 +32,7 @@ class Kaja1 extends Frame {
 		txName.setLocation(130, 50);
 		this.add(txName);
 
-		label2 = new Label("전화번호");
+		label2 = new Label("Tell");
 		label2.setSize(50, 20);
 		label2.setLocation(50, 80);
 		this.add(label2);
@@ -42,42 +42,42 @@ class Kaja1 extends Frame {
 		txPhone.setLocation(130, 80);
 		this.add(txPhone);
 
-		label3 = new Label("선호장르");
+		label3 = new Label("Genre");
 		label3.setSize(50, 30);
 		label3.setLocation(50, 130);
 		this.add(label3);
 
-		chk1 = new Checkbox("스릴러", false);
+		chk1 = new Checkbox("Thriller", false);
 		chk1.setSize(60, 30);
 		chk1.setLocation(50, 160);
 		this.add(chk1);
-		chk2 = new Checkbox("액션", false);
+		chk2 = new Checkbox("Action", false);
 		chk2.setSize(60, 30);
 		chk2.setLocation(120, 160);
 		this.add(chk2);
-		chk3 = new Checkbox("애니매이션", false);
+		chk3 = new Checkbox("Animation", false);
 		chk3.setSize(90, 30);
 		chk3.setLocation(180, 160);
 		this.add(chk3);
 
-		label4 = new Label("성별");
+		label4 = new Label("Sex");
 		label4.setSize(50, 30);
 		label4.setLocation(50, 200);
 		this.add(label4);
 
 		checkboxGroup = new CheckboxGroup();//////////
 
-		chkMan = new Checkbox("남", checkboxGroup, false);
+		chkMan = new Checkbox("Man", checkboxGroup, false);
 		chkMan.setSize(40, 30);
 		chkMan.setLocation(50, 230);
 		this.add(chkMan);
 
-		chkWoman = new Checkbox("여", checkboxGroup, false);
+		chkWoman = new Checkbox("Woman", checkboxGroup, false);
 		chkWoman.setSize(40, 30);
 		chkWoman.setLocation(120, 230);
 		this.add(chkWoman);
 
-		label5 = new Label("가입인사말");
+		label5 = new Label("Quote");
 		label5.setSize(70, 30);
 		label5.setLocation(50, 270);
 		this.add(label5);
@@ -87,18 +87,18 @@ class Kaja1 extends Frame {
 		textArea.setLocation(50, 300);
 		this.add(textArea);
 
-		btnJoin = new Button("가입");
+		btnJoin = new Button("Sign Up");
 		btnJoin.setSize(40, 30);
 		btnJoin.setLocation(100, 400);
 		this.add(btnJoin);
 
-		btnCancle = new Button("취소");
+		btnCancle = new Button("Cancel");
 		btnCancle.setSize(40, 30);
 		btnCancle.setLocation(160, 400);
 		this.add(btnCancle);
 
 		this.setBackground(new Color(120,100,220));
-		this.setTitle("만화카페회원가입");
+		this.setTitle("Comic Cafe Sign up");
 		this.setSize(300, 500);
 		this.setVisible(true);
 
