@@ -15,18 +15,23 @@ class JToolBarClass2 extends JFrame implements ActionListener
         setLayout(new FlowLayout());
         jtoolbar1 = new JToolBar();
         jbutton1 = new JButton("red",new ImageIcon("E:/cat1.png"));
+        jbutton1.setSize(20,20);
         jbutton1.addActionListener(this);
 
         jbutton2 = new JButton("green",new ImageIcon("E:/cat2.png"));
+        jbutton2.setSize(20,20);
         jbutton2.addActionListener(this);
 
         jbutton3 = new JButton("30font",new ImageIcon("E:/font1.png"));
+        jbutton3.setSize(20,20);
         jbutton3.addActionListener(this);
 
-        jbutton4 = new JButton("40font",new ImageIcon("E:/font2.png"));
+        jbutton4 = new JButton("50font",new ImageIcon("E:/font2.png"));
+        jbutton4.setSize(20,20);
         jbutton4.addActionListener(this);
 
-        jbutton5 = new JButton("50font",new ImageIcon("E:/exit.png"));
+        jbutton5 = new JButton("exit",new ImageIcon("E:/exit.png"));
+        jbutton5.setSize(20,20);
         jbutton5.addActionListener(this);
 
         jtoolbar1.add(jbutton1);
@@ -42,7 +47,6 @@ class JToolBarClass2 extends JFrame implements ActionListener
 
         this.setSize(1000,700);
         this.setVisible(true);
-
     }
 
     @Override
@@ -63,7 +67,7 @@ class JToolBarClass2 extends JFrame implements ActionListener
         }
         else if(e.getSource()==jbutton4)
         {
-            jLabel1.setFont(new Font("±¼¸²",Font.BOLD,40));
+            jLabel1.setFont(new Font("±¼¸²",Font.BOLD,50));
 
         }
         else if(e.getSource()==jbutton5)
